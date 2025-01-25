@@ -421,7 +421,7 @@ with table_container:
         # check length of filtered_df
         if len(filtered_df) == 0:
             st.info(
-                "No active player props available for this game. The game might be in progress or scheduled for a different date."
+                "No active player props available for this game. The game might be in progress or has already happened."
             )
         else:
             st.dataframe(
