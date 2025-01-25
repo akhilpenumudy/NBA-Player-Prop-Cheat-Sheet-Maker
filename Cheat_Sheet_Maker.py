@@ -9,7 +9,7 @@ import http.client
 import requests
 from parlayMaker import generate_nba_parlays_merged
 
-API_KEY = "3559305810mshd38ac9145483c1fp162415jsned629769f5f0"
+API_KEY = "enter your API key"
 
 st.set_page_config(
     page_title="NBA Cheat Sheets",
