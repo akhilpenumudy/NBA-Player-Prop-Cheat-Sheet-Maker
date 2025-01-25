@@ -48,5 +48,4 @@ A powerful tool for analyzing NBA player props and generating high-confidence sa
 - NumPy
 - HTTP/API Integration
 
-## Note
-This tool is for informational purposes only. Please bet responsibly.
+
