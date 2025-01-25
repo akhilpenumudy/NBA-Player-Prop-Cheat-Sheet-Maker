@@ -1,3 +1,9 @@
+
+
+Screen shot of cheat sheet maker:           |  Screenshot of parlay generator:
+:-------------------------:|:-------------------------:
+![image3](https://github.com/user-attachments/assets/8770e1a8-9108-4aec-8655-9689d92e9b65) | ![image2](https://github.com/user-attachments/assets/5fb15180-d4ce-42f9-843a-202f1d3a6293)
+
 # NBA Player Props Analyzer and Cheat Sheet Maker 🏀
 
 A powerful tool for analyzing NBA player props and generating high-confidence same-game parlays using historical data and advanced analytics.
