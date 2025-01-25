@@ -1,0 +1,2403 @@
+Player,Team,Stat,Line
+LeBron James,LAL,Points,22.5
+Andrew Nembhard,IND,Assists,4.5
+Andrew Nembhard,IND,Pts+Rebs+Asts,19.5
+Andrew Nembhard,IND,Rebounds,3.5
+Andrew Nembhard,IND,Pts+Rebs,14.5
+Andrew Nembhard,IND,Pts+Asts,15.5
+Andrew Nembhard,IND,Free Throws Made,0.5
+Andrew Nembhard,IND,FG Made,4.0
+Andrew Nembhard,IND,Rebs+Asts,8.0
+Andrew Nembhard,IND,Points,10.5
+Chris Paul,SAS,Free Throws Made,0.5
+Chris Paul,SAS,Rebs+Asts,12.0
+Chris Paul,SAS,Points,8.5
+Chris Paul,SAS,3-PT Made,1.5
+Chris Paul,SAS,Pts+Asts,17.5
+Chris Paul,SAS,Pts+Rebs+Asts,21.5
+Chris Paul,SAS,Pts+Rebs,13.0
+Ben Sheppard,IND,Rebounds,2.5
+Ben Sheppard,IND,Rebs+Asts,3.5
+Ben Sheppard,IND,Blks+Stls,0.5
+Ben Sheppard,IND,Pts+Asts,6.0
+Ben Sheppard,IND,Points,5.0
+Ben Sheppard,IND,Pts+Rebs,7.5
+Ben Sheppard,IND,Pts+Rebs+Asts,8.5
+Devin Vassell,SAS,3-PT Attempted,7.0
+Devin Vassell,SAS,Pts+Rebs+Asts,26.0
+Devin Vassell,SAS,Rebs+Asts,8.0
+Devin Vassell,SAS,Assists,3.5
+Devin Vassell,SAS,Points,18.5
+Devin Vassell,SAS,Pts+Asts,22.0
+Devin Vassell,SAS,FG Made,6.5
+Devin Vassell,SAS,Pts+Rebs,22.5
+Devin Vassell,SAS,Dunks,0.5
+Devin Vassell,SAS,FG Attempted,16.0
+Bennedict Mathurin,IND,Pts+Rebs+Asts,21.5
+Bennedict Mathurin,IND,Free Throws Made,2.5
+Bennedict Mathurin,IND,FG Made,5.5
+Bennedict Mathurin,IND,Points,15.0
+Bennedict Mathurin,IND,Rebounds,5.0
+Bennedict Mathurin,IND,Pts+Rebs,20.0
+Bennedict Mathurin,IND,Pts+Asts,16.5
+Harrison Barnes,SAS,Pts+Rebs+Asts,16.5
+Harrison Barnes,SAS,Pts+Rebs,14.5
+Harrison Barnes,SAS,Turnovers,0.5
+Harrison Barnes,SAS,Pts+Asts,12.5
+Harrison Barnes,SAS,Points,10.5
+Harrison Barnes,SAS,FG Made,4.0
+Myles Turner,IND,Pts+Asts,16.5
+Myles Turner,IND,Points,15.5
+Myles Turner,IND,Defensive Rebounds,6.0
+Myles Turner,IND,Pts+Rebs,22.0
+Myles Turner,IND,FG Made,5.5
+Myles Turner,IND,Rebs+Asts,8.5
+Myles Turner,IND,Pts+Rebs+Asts,23.5
+Myles Turner,IND,Assists,2.5
+Myles Turner,IND,Blks+Stls,2.5
+Myles Turner,IND,Rebounds,7.0
+Victor Wembanyama,SAS,Free Throws Made,4.5
+Victor Wembanyama,SAS,3-PT Attempted,9.5
+Victor Wembanyama,SAS,Points,28.5
+Victor Wembanyama,SAS,Rebs+Asts,15.5
+Victor Wembanyama,SAS,Rebounds,12.0
+Victor Wembanyama,SAS,Pts+Rebs,40.5
+Victor Wembanyama,SAS,Defensive Rebounds,9.5
+Victor Wembanyama,SAS,FG Attempted,21.5
+Victor Wembanyama,SAS,Dunks,2.0
+Victor Wembanyama,SAS,Pts+Asts,32.5
+Victor Wembanyama,SAS,Pts+Rebs+Asts,44.5
+Pascal Siakam,IND,FG Made,8.0
+Pascal Siakam,IND,Pts+Rebs,28.5
+Pascal Siakam,IND,Pts+Rebs+Asts,32.0
+Pascal Siakam,IND,Free Throws Made,3.0
+Pascal Siakam,IND,Defensive Rebounds,6.0
+Pascal Siakam,IND,Dunks,0.5
+Pascal Siakam,IND,Rebs+Asts,11.0
+Pascal Siakam,IND,3-PT Made,2.5
+Pascal Siakam,IND,Offensive Rebounds,1.5
+Pascal Siakam,IND,Rebounds,8.0
+Pascal Siakam,IND,Points,20.5
+Pascal Siakam,IND,FG Attempted,15.5
+Pascal Siakam,IND,Pts+Asts,23.5
+Keldon Johnson,SAS,Pts+Rebs,14.5
+Keldon Johnson,SAS,Points,10.0
+T.J. McConnell,IND,Pts+Asts,12.5
+T.J. McConnell,IND,Pts+Rebs,10.5
+T.J. McConnell,IND,Rebs+Asts,6.5
+T.J. McConnell,IND,Pts+Rebs+Asts,15.0
+T.J. McConnell,IND,FG Made,3.5
+T.J. McConnell,IND,Points,8.0
+Stephon Castle,SAS,Pts+Asts,15.5
+Tyrese Haliburton,IND,Assists,8.5
+Tyrese Haliburton,IND,Rebs+Asts,12.5
+Tyrese Haliburton,IND,3-PT Made,2.5
+Tyrese Haliburton,IND,Pts+Asts,26.5
+Tyrese Haliburton,IND,Points,17.5
+Tyrese Haliburton,IND,Pts+Rebs+Asts,30.5
+Tyrese Haliburton,IND,Pts+Rebs,21.5
+Tyrese Haliburton,IND,3-PT Attempted,7.0
+Tyrese Haliburton,IND,FG Attempted,13.5
+Tyrese Haliburton,IND,FG Made,6.0
+Jeremy Sochan,SAS,Pts+Asts,11.5
+Jeremy Sochan,SAS,Rebounds,6.5
+Jeremy Sochan,SAS,Pts+Rebs+Asts,18.0
+Jeremy Sochan,SAS,Pts+Rebs,16.0
+Jeremy Sochan,SAS,Points,10.0
+Obi Toppin,IND,Points,7.5
+Thomas Bryant,IND,Rebounds,5.0
+Thomas Bryant,IND,Points,6.5
+Thomas Bryant,IND,Pts+Rebs,11.5
+Thomas Bryant,IND,Pts+Rebs+Asts,12.5
+Andrew Nembhard,IND,Steals,2.5
+Andrew Nembhard,IND,3-PT Made,0.5
+Andrew Nembhard,IND,Assists,7.5
+Andrew Nembhard,IND,Blocked Shots,0.5
+Andrew Nembhard,IND,Steals,0.5
+Andrew Nembhard,IND,Rebounds,5.5
+Andrew Nembhard,IND,Points,15.5
+Andrew Nembhard,IND,Assists,3.5
+Andrew Nembhard,IND,Points,6.5
+Andrew Nembhard,IND,Pts+Rebs+Asts,24.5
+Andrew Nembhard,IND,3-PT Made,1.5
+Andrew Nembhard,IND,Rebounds,2.5
+Chris Paul,SAS,Pts+Rebs+Asts,29.5
+Chris Paul,SAS,Points,14.5
+Chris Paul,SAS,Turnovers,1.5
+Chris Paul,SAS,Points,5.5
+Chris Paul,SAS,Blocked Shots,0.5
+Chris Paul,SAS,Steals,0.5
+Chris Paul,SAS,Assists,6.5
+Chris Paul,SAS,3-PT Made,2.5
+Chris Paul,SAS,Rebounds,5.5
+Chris Paul,SAS,Pts+Rebs+Asts,19.5
+Chris Paul,SAS,Assists,11.5
+Chris Paul,SAS,Rebounds,2.5
+Ben Sheppard,IND,3-PT Made,0.5
+Ben Sheppard,IND,Points,7.5
+Ben Sheppard,IND,Rebounds,4.5
+Ben Sheppard,IND,Rebounds,1.5
+Ben Sheppard,IND,Assists,0.5
+Ben Sheppard,IND,Blocked Shots,0.5
+Ben Sheppard,IND,3-PT Made,2.5
+Ben Sheppard,IND,Turnovers,0.5
+Ben Sheppard,IND,Pts+Rebs+Asts,11.5
+Devin Vassell,SAS,Turnovers,1.5
+Devin Vassell,SAS,3-PT Made,1.5
+Devin Vassell,SAS,Assists,5.5
+Devin Vassell,SAS,3-PT Made,4.5
+Devin Vassell,SAS,Pts+Rebs+Asts,24.5
+Devin Vassell,SAS,Rebounds,6.5
+Devin Vassell,SAS,Pts+Rebs+Asts,34.5
+Devin Vassell,SAS,Assists,2.5
+Devin Vassell,SAS,Rebounds,3.5
+Devin Vassell,SAS,Steals,0.5
+Devin Vassell,SAS,Blocked Shots,0.5
+Devin Vassell,SAS,Points,14.5
+Devin Vassell,SAS,Points,26.5
+Bennedict Mathurin,IND,Pts+Rebs+Asts,29.5
+Bennedict Mathurin,IND,Steals,1.5
+Bennedict Mathurin,IND,Points,21.5
+Bennedict Mathurin,IND,Points,10.5
+Bennedict Mathurin,IND,Assists,2.5
+Bennedict Mathurin,IND,Blocked Shots,0.5
+Bennedict Mathurin,IND,Pts+Rebs+Asts,19.5
+Bennedict Mathurin,IND,Rebounds,3.5
+Bennedict Mathurin,IND,Rebounds,7.5
+Bennedict Mathurin,IND,3-PT Made,2.5
+Harrison Barnes,SAS,Assists,2.5
+Harrison Barnes,SAS,Rebounds,2.5
+Harrison Barnes,SAS,Points,7.5
+Harrison Barnes,SAS,Blocked Shots,0.5
+Harrison Barnes,SAS,Steals,0.5
+Harrison Barnes,SAS,3-PT Made,0.5
+Harrison Barnes,SAS,Pts+Rebs+Asts,24.5
+Harrison Barnes,SAS,3-PT Made,2.5
+Harrison Barnes,SAS,Pts+Rebs+Asts,14.5
+Harrison Barnes,SAS,Rebounds,6.5
+Harrison Barnes,SAS,Points,17.5
+Myles Turner,IND,Steals,1.5
+Myles Turner,IND,Points,9.5
+Myles Turner,IND,Points,19.5
+Myles Turner,IND,Assists,0.5
+Myles Turner,IND,Rebounds,5.5
+Myles Turner,IND,Pts+Rebs+Asts,19.5
+Myles Turner,IND,Rebounds,9.5
+Myles Turner,IND,Pts+Rebs+Asts,29.5
+Myles Turner,IND,Blocked Shots,2.5
+Myles Turner,IND,3-PT Made,2.5
+Victor Wembanyama,SAS,3-PT Made,3.5
+Victor Wembanyama,SAS,Blocked Shots,5.5
+Victor Wembanyama,SAS,Assists,5.5
+Victor Wembanyama,SAS,Pts+Rebs+Asts,54.5
+Victor Wembanyama,SAS,Steals,0.5
+Victor Wembanyama,SAS,Points,20.5
+Victor Wembanyama,SAS,Rebounds,15.5
+Victor Wembanyama,SAS,Pts+Rebs+Asts,34.5
+Victor Wembanyama,SAS,Rebounds,9.5
+Victor Wembanyama,SAS,Points,34.5
+Victor Wembanyama,SAS,Assists,2.5
+Victor Wembanyama,SAS,Steals,1.5
+Victor Wembanyama,SAS,Blocked Shots,2.5
+Pascal Siakam,IND,Pts+Rebs+Asts,39.5
+Pascal Siakam,IND,Blocked Shots,0.5
+Pascal Siakam,IND,Assists,5.5
+Pascal Siakam,IND,3-PT Made,0.5
+Pascal Siakam,IND,Steals,0.5
+Pascal Siakam,IND,Rebounds,6.5
+Pascal Siakam,IND,Pts+Rebs+Asts,29.5
+Pascal Siakam,IND,Points,15.5
+Pascal Siakam,IND,Turnovers,1.5
+Pascal Siakam,IND,Rebounds,10.5
+Pascal Siakam,IND,Assists,2.5
+T.J. McConnell,IND,Assists,2.5
+T.J. McConnell,IND,3-PT Made,0.5
+T.J. McConnell,IND,Turnovers,0.5
+T.J. McConnell,IND,Pts+Rebs+Asts,19.5
+T.J. McConnell,IND,Rebounds,3.5
+T.J. McConnell,IND,Rebounds,1.5
+T.J. McConnell,IND,Assists,7.5
+T.J. McConnell,IND,Blocked Shots,0.5
+T.J. McConnell,IND,Points,4.5
+T.J. McConnell,IND,Points,12.5
+T.J. McConnell,IND,Pts+Rebs+Asts,11.5
+T.J. McConnell,IND,Steals,1.5
+Tyrese Haliburton,IND,3-PT Made,4.5
+Tyrese Haliburton,IND,Steals,2.5
+Tyrese Haliburton,IND,Points,12.5
+Tyrese Haliburton,IND,3-PT Made,1.5
+Tyrese Haliburton,IND,Blocked Shots,0.5
+Tyrese Haliburton,IND,Points,24.5
+Tyrese Haliburton,IND,Assists,11.5
+Tyrese Haliburton,IND,Rebounds,5.5
+Tyrese Haliburton,IND,Steals,0.5
+Tyrese Haliburton,IND,Assists,6.5
+Tyrese Haliburton,IND,Rebounds,2.5
+Tyrese Haliburton,IND,Pts+Rebs+Asts,24.5
+Tyrese Haliburton,IND,Pts+Rebs+Asts,39.5
+Cole Anthony,ORL,Points,14.5
+Cole Anthony,ORL,Assists,4.5
+Cole Anthony,ORL,Pts+Asts,18.5
+Cole Anthony,ORL,Pts+Rebs,19.5
+Cole Anthony,ORL,Pts+Rebs+Asts,24.5
+Anfernee Simons,POR,Points,17.5
+Anfernee Simons,POR,Pts+Asts,22.5
+Anfernee Simons,POR,Pts+Rebs,20.5
+Anfernee Simons,POR,Assists,4.0
+Anfernee Simons,POR,Pts+Rebs+Asts,25.5
+Franz Wagner,ORL,Pts+Asts,21.5
+Franz Wagner,ORL,Rebs+Asts,8.5
+Franz Wagner,ORL,Pts+Rebs+Asts,25.5
+Franz Wagner,ORL,Points,17.5
+Franz Wagner,ORL,Pts+Rebs,22.5
+Franz Wagner,ORL,Rebounds,4.5
+Deandre Ayton,POR,Steals,0.5
+Deandre Ayton,POR,Rebs+Asts,11.5
+Deandre Ayton,POR,Rebounds,10.0
+Deandre Ayton,POR,Turnovers,1.5
+Deandre Ayton,POR,Points,13.0
+Deandre Ayton,POR,Pts+Asts,14.0
+Deandre Ayton,POR,Pts+Rebs,23.0
+Deandre Ayton,POR,Pts+Rebs+Asts,24.5
+Kentavious Caldwell-Pope,ORL,Pts+Rebs+Asts,15.0
+Kentavious Caldwell-Pope,ORL,Pts+Rebs,12.5
+Kentavious Caldwell-Pope,ORL,Steals,1.5
+Kentavious Caldwell-Pope,ORL,Points,10.5
+Kentavious Caldwell-Pope,ORL,Pts+Asts,12.5
+Deni Avdija,POR,Points,15.0
+Deni Avdija,POR,Rebs+Asts,11.0
+Deni Avdija,POR,Rebounds,7.5
+Deni Avdija,POR,Pts+Rebs+Asts,26.5
+Deni Avdija,POR,Blocked Shots,0.5
+Deni Avdija,POR,Pts+Rebs,22.5
+Deni Avdija,POR,Pts+Asts,18.5
+Deni Avdija,POR,Turnovers,2.5
+Paolo Banchero,ORL,Pts+Asts,30.5
+Paolo Banchero,ORL,Pts+Rebs,33.5
+Paolo Banchero,ORL,Points,25.5
+Paolo Banchero,ORL,Rebs+Asts,12.5
+Paolo Banchero,ORL,Pts+Rebs+Asts,38.0
+Toumani Camara,POR,Points,9.0
+Toumani Camara,POR,Pts+Rebs+Asts,15.5
+Toumani Camara,POR,Pts+Rebs,14.5
+Toumani Camara,POR,Blks+Stls,1.5
+Toumani Camara,POR,Pts+Asts,11.0
+Toumani Camara,POR,Rebounds,5.0
+Wendell Carter Jr.,ORL,Points,12.5
+Wendell Carter Jr.,ORL,Pts+Rebs+Asts,25.5
+Wendell Carter Jr.,ORL,Pts+Rebs,22.5
+Wendell Carter Jr.,ORL,Rebs+Asts,12.5
+Wendell Carter Jr.,ORL,Rebounds,9.5
+Wendell Carter Jr.,ORL,Assists,2.5
+Wendell Carter Jr.,ORL,Pts+Asts,15.5
+Deni Avdija,POR,3-PT Made,0.5
+Deandre Ayton,POR,Blocked Shots,0.5
+Kentavious Caldwell-Pope,ORL,Pts+Rebs,9.5
+Paolo Banchero,ORL,Pts+Asts,39.5
+Deni Avdija,POR,Pts+Rebs+Asts,24.5
+Wendell Carter Jr.,ORL,Rebounds,12.5
+Paolo Banchero,ORL,Rebounds,5.5
+Toumani Camara,POR,Steals,0.5
+Kentavious Caldwell-Pope,ORL,Points,14.5
+Cole Anthony,ORL,Points,17.5
+Paolo Banchero,ORL,Steals,1.5
+Wendell Carter Jr.,ORL,Rebounds,8.5
+Wendell Carter Jr.,ORL,Assists,4.5
+Deandre Ayton,POR,Rebounds,13.5
+Paolo Banchero,ORL,Pts+Rebs+Asts,34.5
+Anfernee Simons,POR,3-PT Made,1.5
+Deni Avdija,POR,Pts+Rebs,19.5
+Toumani Camara,POR,Steals,1.5
+Franz Wagner,ORL,Steals,1.5
+Paolo Banchero,ORL,Assists,3.5
+Toumani Camara,POR,Pts+Asts,9.5
+Toumani Camara,POR,Rebounds,4.5
+Cole Anthony,ORL,Rebs+Asts,11.5
+Paolo Banchero,ORL,Pts+Rebs,39.5
+Kentavious Caldwell-Pope,ORL,Assists,1.5
+Kentavious Caldwell-Pope,ORL,Pts+Asts,9.5
+Deni Avdija,POR,Steals,1.5
+Cole Anthony,ORL,Pts+Rebs+Asts,29.5
+Anfernee Simons,POR,Assists,3.5
+Franz Wagner,ORL,Assists,5.5
+Kentavious Caldwell-Pope,ORL,3-PT Made,2.5
+Cole Anthony,ORL,Steals,0.5
+Paolo Banchero,ORL,Rebounds,9.5
+Wendell Carter Jr.,ORL,Turnovers,1.5
+Toumani Camara,POR,Rebounds,7.5
+Wendell Carter Jr.,ORL,Rebounds,7.5
+Franz Wagner,ORL,Rebounds,7.5
+Wendell Carter Jr.,ORL,Steals,1.5
+Anfernee Simons,POR,Pts+Rebs,24.5
+Deni Avdija,POR,Pts+Rebs+Asts,29.5
+Paolo Banchero,ORL,Points,29.5
+Deni Avdija,POR,3-PT Made,2.5
+Anfernee Simons,POR,Pts+Rebs+Asts,29.5
+Paolo Banchero,ORL,Pts+Rebs+Asts,44.5
+Paolo Banchero,ORL,Blocked Shots,1.5
+Toumani Camara,POR,Rebounds,6.5
+Paolo Banchero,ORL,Assists,5.5
+Kentavious Caldwell-Pope,ORL,Steals,2.5
+Paolo Banchero,ORL,Points,34.5
+Toumani Camara,POR,Points,7.5
+Cole Anthony,ORL,Assists,3.5
+Anfernee Simons,POR,Assists,5.5
+Franz Wagner,ORL,Pts+Rebs,19.5
+Anfernee Simons,POR,Pts+Asts,19.5
+Franz Wagner,ORL,Rebounds,6.5
+Franz Wagner,ORL,Pts+Asts,19.5
+Wendell Carter Jr.,ORL,3-PT Made,1.5
+Cole Anthony,ORL,3-PT Made,2.5
+Franz Wagner,ORL,3-PT Made,2.5
+Franz Wagner,ORL,Rebounds,3.5
+Paolo Banchero,ORL,Rebs+Asts,17.5
+Paolo Banchero,ORL,Pts+Asts,34.5
+Paolo Banchero,ORL,Assists,6.5
+Franz Wagner,ORL,3-PT Made,0.5
+Deni Avdija,POR,Rebounds,6.5
+Paolo Banchero,ORL,Points,19.5
+Paolo Banchero,ORL,Pts+Rebs,29.5
+Kentavious Caldwell-Pope,ORL,Pts+Rebs,19.5
+Toumani Camara,POR,3-PT Made,1.5
+Deni Avdija,POR,Rebounds,11.5
+Franz Wagner,ORL,Points,14.5
+Deni Avdija,POR,Steals,0.5
+Deandre Ayton,POR,Blocked Shots,1.5
+Anfernee Simons,POR,Points,24.5
+Anfernee Simons,POR,Rebounds,4.5
+Deni Avdija,POR,Points,19.5
+Deni Avdija,POR,Assists,4.5
+Kentavious Caldwell-Pope,ORL,Blocked Shots,1.5
+Kentavious Caldwell-Pope,ORL,Pts+Rebs+Asts,19.5
+Deni Avdija,POR,Rebounds,9.5
+Franz Wagner,ORL,Blocked Shots,0.5
+Anfernee Simons,POR,3-PT Made,3.5
+Kentavious Caldwell-Pope,ORL,3-PT Made,3.5
+Toumani Camara,POR,Points,14.5
+Deandre Ayton,POR,Points,11.5
+Deni Avdija,POR,Pts+Asts,24.5
+Cole Anthony,ORL,Rebounds,7.5
+Anfernee Simons,POR,Blocked Shots,0.5
+Kentavious Caldwell-Pope,ORL,Rebounds,1.5
+Paolo Banchero,ORL,Rebounds,6.5
+Paolo Banchero,ORL,Pts+Rebs+Asts,49.5
+Cole Anthony,ORL,Assists,5.5
+Kentavious Caldwell-Pope,ORL,Assists,3.5
+Cole Anthony,ORL,3-PT Made,0.5
+Paolo Banchero,ORL,Pts+Asts,24.5
+Deandre Ayton,POR,Points,9.5
+Anfernee Simons,POR,3-PT Made,4.5
+Paolo Banchero,ORL,Pts+Rebs,44.5
+Kentavious Caldwell-Pope,ORL,Rebounds,3.5
+Cole Anthony,ORL,Assists,6.5
+Wendell Carter Jr.,ORL,Assists,3.5
+Deandre Ayton,POR,Assists,2.5
+Franz Wagner,ORL,Points,24.5
+Cole Anthony,ORL,Rebounds,3.5
+Franz Wagner,ORL,Pts+Rebs+Asts,24.5
+Kentavious Caldwell-Pope,ORL,Turnovers,0.5
+Toumani Camara,POR,Pts+Rebs+Asts,14.5
+Deandre Ayton,POR,Points,18.5
+Cole Anthony,ORL,Rebounds,6.5
+Franz Wagner,ORL,Assists,2.5
+Deni Avdija,POR,Rebounds,5.5
+Wendell Carter Jr.,ORL,Pts+Rebs+Asts,29.5
+Kentavious Caldwell-Pope,ORL,Pts+Asts,19.5
+Anfernee Simons,POR,Points,14.5
+Wendell Carter Jr.,ORL,Rebs+Asts,17.5
+Wendell Carter Jr.,ORL,Rebounds,13.5
+Paolo Banchero,ORL,3-PT Made,2.5
+Deni Avdija,POR,Pts+Rebs+Asts,34.5
+Paolo Banchero,ORL,Rebounds,11.5
+Wendell Carter Jr.,ORL,Pts+Rebs+Asts,34.5
+Deandre Ayton,POR,Points,14.5
+Toumani Camara,POR,Assists,2.5
+Wendell Carter Jr.,ORL,Steals,0.5
+Deni Avdija,POR,Assists,2.5
+Anfernee Simons,POR,Assists,6.5
+Wendell Carter Jr.,ORL,Rebs+Asts,11.5
+Wendell Carter Jr.,ORL,Pts+Rebs,29.5
+Wendell Carter Jr.,ORL,Pts+Rebs,19.5
+Wendell Carter Jr.,ORL,Blocked Shots,1.5
+Toumani Camara,POR,Pts+Rebs+Asts,19.5
+Wendell Carter Jr.,ORL,Pts+Asts,19.5
+Deni Avdija,POR,Blocked Shots,1.5
+Wendell Carter Jr.,ORL,Points,19.5
+Deni Avdija,POR,Points,20.5
+Wendell Carter Jr.,ORL,Points,9.5
+Deni Avdija,POR,Assists,5.5
+Wendell Carter Jr.,ORL,Pts+Asts,14.5
+Deni Avdija,POR,Pts+Asts,14.5
+Deni Avdija,POR,Pts+Rebs,29.5
+Bruce Brown,TOR,Rebs+Asts,5.0
+Bruce Brown,TOR,Pts+Rebs+Asts,14.5
+Bruce Brown,TOR,FG Made,3.5
+Bruce Brown,TOR,Points,9.5
+Bruce Brown,TOR,Assists,1.5
+Bruce Brown,TOR,Pts+Rebs,12.5
+Bruce Brown,TOR,Steals,0.5
+De'Andre Hunter,ATL,Free Throws Made,4.0
+De'Andre Hunter,ATL,Points,18.5
+De'Andre Hunter,ATL,3-PT Attempted,6.5
+De'Andre Hunter,ATL,Pts+Asts,19.5
+De'Andre Hunter,ATL,Pts+Rebs,23.0
+De'Andre Hunter,ATL,Pts+Rebs+Asts,24.5
+De'Andre Hunter,ATL,Rebounds,4.0
+De'Andre Hunter,ATL,FG Attempted,14.0
+Davion Mitchell,TOR,Rebs+Asts,6.5
+Davion Mitchell,TOR,Pts+Rebs,8.5
+Davion Mitchell,TOR,FG Made,2.5
+Davion Mitchell,TOR,Pts+Rebs+Asts,13.0
+Davion Mitchell,TOR,Points,6.5
+Davion Mitchell,TOR,Pts+Asts,11.5
+Dyson Daniels,ATL,FG Attempted,12.5
+Dyson Daniels,ATL,Points,13.5
+Dyson Daniels,ATL,Pts+Rebs+Asts,23.0
+Dyson Daniels,ATL,Pts+Asts,16.5
+Dyson Daniels,ATL,Assists,3.5
+Dyson Daniels,ATL,Rebs+Asts,9.0
+Dyson Daniels,ATL,Pts+Rebs,19.0
+Dyson Daniels,ATL,FG Made,6.0
+Gradey Dick,TOR,Pts+Rebs+Asts,18.5
+Gradey Dick,TOR,Rebs+Asts,4.5
+Gradey Dick,TOR,FG Made,5.0
+Gradey Dick,TOR,Pts+Asts,15.5
+Gradey Dick,TOR,Pts+Rebs,17.5
+Gradey Dick,TOR,3-PT Attempted,6.0
+Gradey Dick,TOR,Points,14.5
+Gradey Dick,TOR,Assists,1.5
+Gradey Dick,TOR,Turnovers,1.5
+Jalen Johnson,ATL,FG Attempted,16.5
+Jalen Johnson,ATL,Rebs+Asts,14.5
+Jalen Johnson,ATL,Dunks,1.5
+Jalen Johnson,ATL,Assists,4.0
+Jalen Johnson,ATL,Pts+Asts,24.5
+Jalen Johnson,ATL,Pts+Rebs+Asts,34.5
+Jalen Johnson,ATL,Pts+Rebs,30.5
+Jalen Johnson,ATL,Points,19.5
+Jakob Poeltl,TOR,Rebounds,10.0
+Jakob Poeltl,TOR,Defensive Rebounds,6.5
+Jakob Poeltl,TOR,Turnovers,1.5
+Jakob Poeltl,TOR,Points,13.5
+Jakob Poeltl,TOR,Pts+Asts,16.5
+Jakob Poeltl,TOR,FG Made,6.0
+Jakob Poeltl,TOR,Rebs+Asts,12.5
+Jakob Poeltl,TOR,Pts+Rebs+Asts,26.0
+Jakob Poeltl,TOR,Pts+Rebs,23.5
+Jakob Poeltl,TOR,Offensive Rebounds,3.5
+Jakob Poeltl,TOR,Blks+Stls,2.5
+Onyeka Okongwu,ATL,Dunks,1.5
+Onyeka Okongwu,ATL,FG Made,5.5
+Onyeka Okongwu,ATL,Pts+Asts,15.5
+Onyeka Okongwu,ATL,Offensive Rebounds,3.5
+Onyeka Okongwu,ATL,Pts+Rebs,23.0
+Onyeka Okongwu,ATL,Points,14.0
+Onyeka Okongwu,ATL,Defensive Rebounds,5.5
+Onyeka Okongwu,ATL,Pts+Rebs+Asts,25.5
+Jamal Shead,TOR,Pts+Rebs+Asts,10.5
+Jamal Shead,TOR,Points,5.5
+Trae Young,ATL,Rebs+Asts,14.0
+Trae Young,ATL,FG Attempted,19.5
+Trae Young,ATL,Points,26.5
+Trae Young,ATL,Pts+Rebs+Asts,40.5
+Trae Young,ATL,Pts+Asts,37.0
+Trae Young,ATL,Blks+Stls,1.5
+Trae Young,ATL,Pts+Rebs,29.5
+Trae Young,ATL,3-PT Attempted,9.5
+Trae Young,ATL,Assists,10.5
+RJ Barrett,TOR,Pts+Asts,27.0
+RJ Barrett,TOR,FG Made,8.0
+RJ Barrett,TOR,Free Throws Made,4.0
+RJ Barrett,TOR,Pts+Rebs,28.0
+RJ Barrett,TOR,Pts+Rebs+Asts,33.5
+RJ Barrett,TOR,Assists,5.0
+RJ Barrett,TOR,FG Attempted,16.5
+RJ Barrett,TOR,Rebounds,6.0
+RJ Barrett,TOR,Points,21.5
+RJ Barrett,TOR,Rebs+Asts,11.0
+Scottie Barnes,TOR,Assists,7.0
+Scottie Barnes,TOR,Steals,1.5
+Scottie Barnes,TOR,Rebounds,7.5
+Scottie Barnes,TOR,Dunks,0.5
+Scottie Barnes,TOR,Defensive Rebounds,5.5
+Scottie Barnes,TOR,Pts+Rebs,28.5
+Scottie Barnes,TOR,Pts+Asts,27.5
+Scottie Barnes,TOR,FG Attempted,17.0
+Scottie Barnes,TOR,Points,20.5
+Scottie Barnes,TOR,Pts+Rebs+Asts,34.5
+Scottie Barnes,TOR,FG Made,7.5
+Scottie Barnes,TOR,Rebs+Asts,14.5
+Scottie Barnes,TOR,Free Throws Made,3.0
+Jalen Johnson,ATL,Assists,7.5
+Trae Young,ATL,Pts+Asts,44.5
+Jamal Shead,TOR,Steals,1.5
+Jamal Shead,TOR,Blocked Shots,0.5
+Onyeka Okongwu,ATL,Assists,3.5
+Jakob Poeltl,TOR,Blocked Shots,2.5
+Gradey Dick,TOR,Pts+Rebs,19.5
+RJ Barrett,TOR,Pts+Asts,34.5
+De'Andre Hunter,ATL,3-PT Made,4.5
+Davion Mitchell,TOR,Rebs+Asts,9.5
+Gradey Dick,TOR,Points,19.5
+Jakob Poeltl,TOR,Points,19.5
+RJ Barrett,TOR,Pts+Asts,24.5
+RJ Barrett,TOR,Assists,7.5
+Jakob Poeltl,TOR,Rebounds,13.5
+Scottie Barnes,TOR,Pts+Rebs,34.5
+Jamal Shead,TOR,Assists,4.5
+RJ Barrett,TOR,Pts+Rebs,34.5
+Jakob Poeltl,TOR,Points,11.5
+Jakob Poeltl,TOR,Pts+Asts,19.5
+Jakob Poeltl,TOR,Pts+Rebs+Asts,34.5
+Davion Mitchell,TOR,Pts+Asts,14.5
+RJ Barrett,TOR,Pts+Rebs,24.5
+Jakob Poeltl,TOR,Steals,1.5
+Jakob Poeltl,TOR,Steals,2.5
+Gradey Dick,TOR,3-PT Made,3.5
+Gradey Dick,TOR,Blocked Shots,0.5
+Gradey Dick,TOR,Pts+Rebs,24.5
+Gradey Dick,TOR,Steals,1.5
+Davion Mitchell,TOR,Assists,6.5
+Davion Mitchell,TOR,Blocked Shots,0.5
+Davion Mitchell,TOR,Pts+Rebs,14.5
+Davion Mitchell,TOR,Steals,0.5
+Bruce Brown,TOR,Blocked Shots,0.5
+Bruce Brown,TOR,Pts+Asts,14.5
+Bruce Brown,TOR,Rebounds,2.5
+Bruce Brown,TOR,Steals,1.5
+Gradey Dick,TOR,3-PT Made,1.5
+Jamal Shead,TOR,Pts+Rebs,9.5
+Scottie Barnes,TOR,3-PT Made,0.5
+Gradey Dick,TOR,Pts+Rebs+Asts,14.5
+Davion Mitchell,TOR,Pts+Rebs+Asts,9.5
+Scottie Barnes,TOR,Pts+Asts,24.5
+RJ Barrett,TOR,Pts+Rebs+Asts,39.5
+Bruce Brown,TOR,Pts+Rebs+Asts,19.5
+Davion Mitchell,TOR,Points,4.5
+RJ Barrett,TOR,Pts+Asts,29.5
+RJ Barrett,TOR,Assists,3.5
+Jakob Poeltl,TOR,Rebounds,12.5
+Jakob Poeltl,TOR,Points,9.5
+Davion Mitchell,TOR,3-PT Made,0.5
+Scottie Barnes,TOR,Rebounds,9.5
+Bruce Brown,TOR,Rebounds,5.5
+RJ Barrett,TOR,Blocked Shots,0.5
+Jakob Poeltl,TOR,Rebs+Asts,17.5
+De'Andre Hunter,ATL,Rebounds,6.5
+De'Andre Hunter,ATL,Rebounds,5.5
+De'Andre Hunter,ATL,Pts+Rebs,19.5
+De'Andre Hunter,ATL,Points,14.5
+De'Andre Hunter,ATL,Points,17.5
+De'Andre Hunter,ATL,3-PT Made,3.5
+Scottie Barnes,TOR,Pts+Asts,29.5
+Bruce Brown,TOR,Pts+Asts,9.5
+Scottie Barnes,TOR,Steals,2.5
+Davion Mitchell,TOR,Rebounds,3.5
+RJ Barrett,TOR,Points,19.5
+Gradey Dick,TOR,Points,17.5
+Gradey Dick,TOR,Pts+Asts,19.5
+RJ Barrett,TOR,Rebounds,7.5
+Jamal Shead,TOR,Rebs+Asts,7.5
+De'Andre Hunter,ATL,Points,24.5
+Dyson Daniels,ATL,Assists,5.5
+Gradey Dick,TOR,Assists,2.5
+Scottie Barnes,TOR,Assists,4.5
+RJ Barrett,TOR,Steals,0.5
+Gradey Dick,TOR,Points,11.5
+Davion Mitchell,TOR,Assists,3.5
+Jamal Shead,TOR,Pts+Asts,14.5
+Gradey Dick,TOR,Rebounds,4.5
+Davion Mitchell,TOR,Rebounds,2.5
+Davion Mitchell,TOR,Pts+Asts,9.5
+Scottie Barnes,TOR,Pts+Rebs+Asts,39.5
+Jakob Poeltl,TOR,Blocked Shots,0.5
+Jalen Johnson,ATL,Rebs+Asts,19.5
+Scottie Barnes,TOR,Points,17.5
+Jalen Johnson,ATL,Rebounds,12.5
+Jalen Johnson,ATL,Pts+Rebs+Asts,29.5
+Jalen Johnson,ATL,Points,19.5
+Jalen Johnson,ATL,3-PT Made,2.5
+Jalen Johnson,ATL,Pts+Rebs,34.5
+Dyson Daniels,ATL,Assists,6.5
+Jakob Poeltl,TOR,Pts+Rebs+Asts,29.5
+Scottie Barnes,TOR,Assists,9.5
+Gradey Dick,TOR,3-PT Made,2.5
+Scottie Barnes,TOR,Pts+Asts,34.5
+Trae Young,ATL,Steals,0.5
+Trae Young,ATL,Steals,2.5
+Trae Young,ATL,Rebounds,4.5
+Trae Young,ATL,Pts+Rebs+Asts,44.5
+Trae Young,ATL,Pts+Rebs,34.5
+Trae Young,ATL,Points,34.5
+Jamal Shead,TOR,Assists,2.5
+Trae Young,ATL,Assists,9.5
+RJ Barrett,TOR,Assists,6.5
+Trae Young,ATL,Assists,14.5
+RJ Barrett,TOR,Points,24.5
+Trae Young,ATL,3-PT Made,2.5
+Scottie Barnes,TOR,3-PT Made,2.5
+Jalen Johnson,ATL,Blocked Shots,0.5
+Scottie Barnes,TOR,Assists,7.5
+Dyson Daniels,ATL,Pts+Rebs,14.5
+Onyeka Okongwu,ATL,Points,9.5
+Onyeka Okongwu,ATL,Pts+Rebs+Asts,19.5
+Scottie Barnes,TOR,Points,24.5
+Jakob Poeltl,TOR,Pts+Rebs,29.5
+Davion Mitchell,TOR,Points,9.5
+Jamal Shead,TOR,Points,9.5
+Onyeka Okongwu,ATL,3-PT Made,0.5
+Onyeka Okongwu,ATL,Assists,2.5
+Bruce Brown,TOR,Assists,2.5
+Jakob Poeltl,TOR,Blocked Shots,1.5
+Scottie Barnes,TOR,3-PT Made,1.5
+De'Andre Hunter,ATL,Rebounds,2.5
+De'Andre Hunter,ATL,Pts+Rebs+Asts,34.5
+De'Andre Hunter,ATL,Pts+Rebs,29.5
+Bruce Brown,TOR,Pts+Rebs,19.5
+De'Andre Hunter,ATL,Pts+Asts,29.5
+Scottie Barnes,TOR,Rebounds,5.5
+De'Andre Hunter,ATL,Pts+Asts,24.5
+De'Andre Hunter,ATL,Assists,2.5
+De'Andre Hunter,ATL,3-PT Made,1.5
+Dyson Daniels,ATL,Assists,2.5
+Bruce Brown,TOR,Pts+Rebs,9.5
+RJ Barrett,TOR,3-PT Made,2.5
+Dyson Daniels,ATL,Points,12.5
+Dyson Daniels,ATL,3-PT Made,0.5
+Dyson Daniels,ATL,Pts+Asts,24.5
+Bruce Brown,TOR,Points,11.5
+Dyson Daniels,ATL,Rebounds,3.5
+Bruce Brown,TOR,Points,5.5
+Dyson Daniels,ATL,Points,9.5
+Dyson Daniels,ATL,Points,19.5
+Gradey Dick,TOR,Points,9.5
+Dyson Daniels,ATL,Rebounds,6.5
+Bruce Brown,TOR,Turnovers,1.5
+Dyson Daniels,ATL,Pts+Rebs+Asts,19.5
+Jamal Shead,TOR,3-PT Made,1.5
+Bruce Brown,TOR,Points,14.5
+Bruce Brown,TOR,3-PT Made,1.5
+Jakob Poeltl,TOR,Assists,1.5
+Dyson Daniels,ATL,Pts+Asts,14.5
+Dyson Daniels,ATL,Blocked Shots,1.5
+Dyson Daniels,ATL,Steals,3.5
+Dyson Daniels,ATL,Rebounds,7.5
+Scottie Barnes,TOR,Rebs+Asts,17.5
+Dyson Daniels,ATL,3-PT Made,2.5
+Dyson Daniels,ATL,3-PT Made,1.5
+Dyson Daniels,ATL,Pts+Rebs+Asts,29.5
+Jakob Poeltl,TOR,Pts+Rebs,19.5
+Bruce Brown,TOR,Points,7.5
+Scottie Barnes,TOR,Blocked Shots,0.5
+Dyson Daniels,ATL,Steals,1.5
+Dyson Daniels,ATL,Pts+Rebs,24.5
+Trae Young,ATL,Pts+Rebs+Asts,34.5
+Trae Young,ATL,Pts+Rebs+Asts,49.5
+Trae Young,ATL,Pts+Rebs,24.5
+Trae Young,ATL,Pts+Rebs,39.5
+Trae Young,ATL,Pts+Asts,34.5
+Trae Young,ATL,Points,24.5
+RJ Barrett,TOR,Pts+Rebs+Asts,29.5
+Trae Young,ATL,Points,29.5
+Trae Young,ATL,Assists,13.5
+Jalen Johnson,ATL,Rebs+Asts,17.5
+Jalen Johnson,ATL,Rebounds,7.5
+Jalen Johnson,ATL,Rebounds,13.5
+RJ Barrett,TOR,Steals,1.5
+Scottie Barnes,TOR,Blocked Shots,1.5
+Scottie Barnes,TOR,Pts+Rebs+Asts,29.5
+Jalen Johnson,ATL,Pts+Rebs+Asts,39.5
+Jalen Johnson,ATL,Steals,2.5
+Jalen Johnson,ATL,Pts+Asts,29.5
+Jalen Johnson,ATL,Rebounds,8.5
+Jalen Johnson,ATL,Pts+Rebs+Asts,44.5
+Jamal Shead,TOR,Rebounds,2.5
+Jalen Johnson,ATL,Pts+Rebs,39.5
+Jalen Johnson,ATL,Pts+Asts,34.5
+Jalen Johnson,ATL,Points,24.5
+Jalen Johnson,ATL,Points,29.5
+Jamal Shead,TOR,Assists,5.5
+Jalen Johnson,ATL,Blocked Shots,1.5
+Jalen Johnson,ATL,Assists,6.5
+Davion Mitchell,TOR,Pts+Rebs+Asts,19.5
+Jalen Johnson,ATL,3-PT Made,1.5
+Jalen Johnson,ATL,3-PT Made,0.5
+Gradey Dick,TOR,Pts+Rebs,14.5
+Jakob Poeltl,TOR,Rebs+Asts,11.5
+Trae Young,ATL,3-PT Made,4.5
+Bruce Brown,TOR,Rebounds,4.5
+RJ Barrett,TOR,Rebounds,4.5
+Jakob Poeltl,TOR,Pts+Rebs+Asts,24.5
+Onyeka Okongwu,ATL,Steals,1.5
+Onyeka Okongwu,ATL,Rebounds,6.5
+Davion Mitchell,TOR,Rebs+Asts,7.5
+Onyeka Okongwu,ATL,Turnovers,1.5
+Onyeka Okongwu,ATL,Pts+Rebs,19.5
+Onyeka Okongwu,ATL,Points,19.5
+Onyeka Okongwu,ATL,Pts+Asts,19.5
+Onyeka Okongwu,ATL,Blocked Shots,1.5
+Onyeka Okongwu,ATL,Assists,1.5
+Onyeka Okongwu,ATL,Pts+Rebs,29.5
+Onyeka Okongwu,ATL,Rebounds,7.5
+Jakob Poeltl,TOR,Rebounds,7.5
+Onyeka Okongwu,ATL,Pts+Rebs+Asts,34.5
+Gradey Dick,TOR,Pts+Rebs+Asts,24.5
+Onyeka Okongwu,ATL,Points,17.5
+Onyeka Okongwu,ATL,Blocked Shots,0.5
+Onyeka Okongwu,ATL,Pts+Rebs+Asts,29.5
+Onyeka Okongwu,ATL,Points,11.5
+Onyeka Okongwu,ATL,Rebounds,13.5
+Onyeka Okongwu,ATL,Rebounds,12.5
+Davion Mitchell,TOR,3-PT Made,1.5
+Jamal Shead,TOR,Pts+Rebs+Asts,14.5
+Trae Young,ATL,Blocked Shots,0.5
+Jakob Poeltl,TOR,Steals,0.5
+Gradey Dick,TOR,Steals,0.5
+Scottie Barnes,TOR,Rebounds,6.5
+De'Andre Hunter,ATL,Pts+Rebs+Asts,19.5
+Jakob Poeltl,TOR,Assists,3.5
+De'Andre Hunter,ATL,Steals,0.5
+Davion Mitchell,TOR,Steals,1.5
+De'Andre Hunter,ATL,Pts+Rebs+Asts,29.5
+Scottie Barnes,TOR,Pts+Rebs,24.5
+De'Andre Hunter,ATL,Assists,3.5
+Jakob Poeltl,TOR,Points,17.5
+De'Andre Hunter,ATL,Blocked Shots,0.5
+Onyeka Okongwu,ATL,Steals,0.5
+RJ Barrett,TOR,Points,29.5
+Dyson Daniels,ATL,Rebs+Asts,11.5
+Trae Young,ATL,Rebs+Asts,17.5
+Onyeka Okongwu,ATL,Blocked Shots,2.5
+Davion Mitchell,TOR,Assists,5.5
+Andre Jackson Jr.,MIL,Pts+Rebs,6.5
+Andre Jackson Jr.,MIL,Points,3.5
+Andre Jackson Jr.,MIL,Blks+Stls,0.5
+Andre Jackson Jr.,MIL,Pts+Asts,4.5
+Bam Adebayo,MIA,Rebs+Asts,12.5
+Bam Adebayo,MIA,Pts+Asts,18.5
+Bam Adebayo,MIA,Points,14.5
+Bam Adebayo,MIA,Pts+Rebs+Asts,27.0
+Bam Adebayo,MIA,Pts+Rebs,23.5
+Bam Adebayo,MIA,Blks+Stls,1.5
+Bam Adebayo,MIA,Dunks,1.5
+Bam Adebayo,MIA,Defensive Rebounds,6.5
+Bam Adebayo,MIA,Free Throws Made,2.5
+Bam Adebayo,MIA,FG Made,6.0
+Bam Adebayo,MIA,FG Attempted,12.5
+Bam Adebayo,MIA,Rebounds,8.5
+Bobby Portis,MIL,Points,10.5
+Bobby Portis,MIL,Pts+Asts,12.5
+Bobby Portis,MIL,Assists,1.5
+Bobby Portis,MIL,Pts+Rebs+Asts,19.5
+Bobby Portis,MIL,Rebounds,7.5
+Bobby Portis,MIL,FG Made,4.0
+Bobby Portis,MIL,Pts+Rebs,18.5
+Duncan Robinson,MIA,Rebs+Asts,6.0
+Duncan Robinson,MIA,Points,11.5
+Duncan Robinson,MIA,FG Made,4.0
+Duncan Robinson,MIA,Pts+Rebs+Asts,17.5
+Duncan Robinson,MIA,3-PT Attempted,7.0
+Duncan Robinson,MIA,Pts+Asts,15.5
+Duncan Robinson,MIA,Pts+Rebs,14.5
+Duncan Robinson,MIA,Steals,0.5
+Brook Lopez,MIL,Free Throws Made,0.5
+Brook Lopez,MIL,Pts+Rebs+Asts,18.5
+Brook Lopez,MIL,Pts+Rebs,16.5
+Brook Lopez,MIL,FG Made,4.0
+Brook Lopez,MIL,Pts+Asts,12.5
+Brook Lopez,MIL,Points,11.0
+Brook Lopez,MIL,Dunks,0.5
+Brook Lopez,MIL,Rebs+Asts,7.0
+Brook Lopez,MIL,Rebounds,5.0
+Brook Lopez,MIL,Steals,0.5
+Kel'el Ware,MIA,Pts+Asts,16.5
+Kel'el Ware,MIA,Rebs+Asts,10.5
+Kel'el Ware,MIA,Pts+Rebs+Asts,26.0
+Kel'el Ware,MIA,Points,14.5
+Kel'el Ware,MIA,Rebounds,9.0
+Kel'el Ware,MIA,Pts+Rebs,24.5
+Kel'el Ware,MIA,Free Throws Made,1.5
+Kel'el Ware,MIA,FG Made,6.0
+Damian Lillard,MIL,FG Made,7.5
+Damian Lillard,MIL,Pts+Rebs+Asts,35.0
+Damian Lillard,MIL,Rebounds,4.0
+Damian Lillard,MIL,Rebs+Asts,11.0
+Damian Lillard,MIL,Turnovers,2.5
+Damian Lillard,MIL,Assists,6.5
+Damian Lillard,MIL,Pts+Asts,30.5
+Damian Lillard,MIL,Points,24.5
+Damian Lillard,MIL,Pts+Rebs,28.5
+Damian Lillard,MIL,Free Throws Made,5.5
+Damian Lillard,MIL,FG Attempted,16.5
+Damian Lillard,MIL,3-PT Attempted,8.0
+Tyler Herro,MIA,Points,23.5
+Tyler Herro,MIA,Pts+Rebs,28.0
+Tyler Herro,MIA,Free Throws Made,3.0
+Tyler Herro,MIA,Pts+Rebs+Asts,33.5
+Tyler Herro,MIA,3-PT Attempted,9.5
+Tyler Herro,MIA,Rebs+Asts,10.0
+Tyler Herro,MIA,FG Attempted,17.5
+Tyler Herro,MIA,Assists,5.0
+Tyler Herro,MIA,Pts+Asts,28.5
+Tyler Herro,MIA,FG Made,7.5
+Tyler Herro,MIA,Rebounds,5.0
+Giannis Antetokounmpo,MIL,FG Attempted,19.5
+Giannis Antetokounmpo,MIL,Dunks,3.5
+Giannis Antetokounmpo,MIL,Free Throws Made,6.0
+Giannis Antetokounmpo,MIL,Rebs+Asts,18.5
+Giannis Antetokounmpo,MIL,Offensive Rebounds,2.5
+Giannis Antetokounmpo,MIL,Pts+Rebs+Asts,47.5
+Giannis Antetokounmpo,MIL,Defensive Rebounds,10.5
+Giannis Antetokounmpo,MIL,Pts+Asts,34.5
+Giannis Antetokounmpo,MIL,FG Made,11.5
+Giannis Antetokounmpo,MIL,Assists,5.5
+Giannis Antetokounmpo,MIL,Points,29.0
+Giannis Antetokounmpo,MIL,Pts+Rebs,41.5
+Giannis Antetokounmpo,MIL,Rebounds,13.0
+Nikola Jovic,MIA,Points,11.5
+Nikola Jovic,MIA,Pts+Rebs+Asts,21.0
+Nikola Jovic,MIA,Pts+Asts,16.0
+Nikola Jovic,MIA,Rebounds,5.0
+Nikola Jovic,MIA,Free Throws Made,1.5
+Nikola Jovic,MIA,Rebs+Asts,9.0
+Nikola Jovic,MIA,Pts+Rebs,16.5
+Nikola Jovic,MIA,Assists,4.0
+Khris Middleton,MIL,Points,12.5
+Khris Middleton,MIL,Assists,4.5
+Khris Middleton,MIL,Pts+Rebs+Asts,21.5
+Khris Middleton,MIL,Pts+Asts,17.5
+Khris Middleton,MIL,Pts+Rebs,16.5
+Khris Middleton,MIL,FG Made,4.5
+Khris Middleton,MIL,3-PT Made,1.5
+Khris Middleton,MIL,Rebs+Asts,8.5
+Khris Middleton,MIL,Rebounds,3.5
+Taurean Prince,MIL,Steals,0.5
+Taurean Prince,MIL,Pts+Rebs+Asts,10.5
+Taurean Prince,MIL,Turnovers,0.5
+Taurean Prince,MIL,Points,6.0
+Taurean Prince,MIL,Pts+Rebs,9.5
+Taurean Prince,MIL,Pts+Asts,7.5
+Gary Trent Jr.,MIL,Pts+Rebs+Asts,11.5
+Gary Trent Jr.,MIL,Pts+Rebs,10.5
+Gary Trent Jr.,MIL,Points,8.5
+Andre Jackson Jr.,MIL,Blocked Shots,0.5
+Andre Jackson Jr.,MIL,Points,4.5
+Andre Jackson Jr.,MIL,Points,6.5
+Andre Jackson Jr.,MIL,Rebounds,4.5
+Andre Jackson Jr.,MIL,Assists,1.5
+Bam Adebayo,MIA,3-PT Made,1.5
+Bam Adebayo,MIA,Points,10.5
+Bam Adebayo,MIA,Steals,2.5
+Bam Adebayo,MIA,Pts+Rebs+Asts,34.5
+Bam Adebayo,MIA,Points,20.5
+Bam Adebayo,MIA,Assists,5.5
+Bam Adebayo,MIA,Blocked Shots,1.5
+Bam Adebayo,MIA,Pts+Rebs+Asts,24.5
+Bam Adebayo,MIA,Assists,2.5
+Bam Adebayo,MIA,Steals,0.5
+Bam Adebayo,MIA,Rebounds,11.5
+Bam Adebayo,MIA,Rebounds,6.5
+Bobby Portis,MIL,Rebounds,6.5
+Bobby Portis,MIL,Assists,2.5
+Bobby Portis,MIL,Steals,1.5
+Bobby Portis,MIL,3-PT Made,2.5
+Bobby Portis,MIL,Blocked Shots,0.5
+Bobby Portis,MIL,Points,15.5
+Bobby Portis,MIL,Rebounds,9.5
+Bobby Portis,MIL,Pts+Rebs+Asts,24.5
+Bobby Portis,MIL,Points,6.5
+Bobby Portis,MIL,3-PT Made,0.5
+Duncan Robinson,MIA,Turnovers,1.5
+Duncan Robinson,MIA,Pts+Rebs+Asts,14.5
+Duncan Robinson,MIA,Blocked Shots,0.5
+Duncan Robinson,MIA,3-PT Made,3.5
+Duncan Robinson,MIA,Pts+Rebs+Asts,24.5
+Duncan Robinson,MIA,Steals,1.5
+Duncan Robinson,MIA,Points,17.5
+Duncan Robinson,MIA,Assists,2.5
+Duncan Robinson,MIA,Assists,5.5
+Duncan Robinson,MIA,Rebounds,3.5
+Duncan Robinson,MIA,Points,7.5
+Brook Lopez,MIL,Steals,1.5
+Brook Lopez,MIL,Blocked Shots,2.5
+Brook Lopez,MIL,Assists,2.5
+Brook Lopez,MIL,Turnovers,0.5
+Brook Lopez,MIL,Points,6.5
+Brook Lopez,MIL,Pts+Rebs+Asts,24.5
+Brook Lopez,MIL,Rebounds,6.5
+Brook Lopez,MIL,Pts+Rebs+Asts,14.5
+Brook Lopez,MIL,3-PT Made,2.5
+Kel'el Ware,MIA,Pts+Rebs+Asts,24.5
+Kel'el Ware,MIA,Rebounds,6.5
+Kel'el Ware,MIA,Rebounds,12.5
+Kel'el Ware,MIA,Pts+Rebs+Asts,34.5
+Kel'el Ware,MIA,Blocked Shots,1.5
+Kel'el Ware,MIA,Blocked Shots,3.5
+Kel'el Ware,MIA,Steals,0.5
+Kel'el Ware,MIA,3-PT Made,2.5
+Damian Lillard,MIL,Assists,7.5
+Damian Lillard,MIL,3-PT Made,5.5
+Damian Lillard,MIL,Points,18.5
+Damian Lillard,MIL,Assists,4.5
+Damian Lillard,MIL,3-PT Made,2.5
+Damian Lillard,MIL,Rebounds,6.5
+Damian Lillard,MIL,Blocked Shots,0.5
+Damian Lillard,MIL,Points,31.5
+Damian Lillard,MIL,Rebounds,3.5
+Damian Lillard,MIL,Pts+Rebs+Asts,44.5
+Damian Lillard,MIL,Steals,0.5
+Damian Lillard,MIL,Steals,2.5
+Damian Lillard,MIL,Pts+Rebs+Asts,29.5
+Tyler Herro,MIA,3-PT Made,5.5
+Tyler Herro,MIA,3-PT Made,2.5
+Tyler Herro,MIA,Assists,4.5
+Tyler Herro,MIA,Pts+Rebs+Asts,39.5
+Tyler Herro,MIA,Assists,7.5
+Tyler Herro,MIA,Points,17.5
+Tyler Herro,MIA,Pts+Rebs+Asts,29.5
+Tyler Herro,MIA,Points,30.5
+Tyler Herro,MIA,Rebounds,6.5
+Giannis Antetokounmpo,MIL,Assists,4.5
+Giannis Antetokounmpo,MIL,Points,35.5
+Giannis Antetokounmpo,MIL,Pts+Rebs+Asts,44.5
+Giannis Antetokounmpo,MIL,Blocked Shots,2.5
+Giannis Antetokounmpo,MIL,Rebounds,11.5
+Giannis Antetokounmpo,MIL,Rebounds,16.5
+Giannis Antetokounmpo,MIL,Steals,1.5
+Giannis Antetokounmpo,MIL,3-PT Made,0.5
+Giannis Antetokounmpo,MIL,Assists,7.5
+Giannis Antetokounmpo,MIL,Pts+Rebs+Asts,54.5
+Giannis Antetokounmpo,MIL,Points,23.5
+Khris Middleton,MIL,Assists,6.5
+Khris Middleton,MIL,Assists,3.5
+Khris Middleton,MIL,3-PT Made,2.5
+Khris Middleton,MIL,Points,8.5
+Khris Middleton,MIL,Blocked Shots,0.5
+Khris Middleton,MIL,Rebounds,5.5
+Khris Middleton,MIL,Points,19.5
+Khris Middleton,MIL,Steals,1.5
+Khris Middleton,MIL,Pts+Rebs+Asts,29.5
+Khris Middleton,MIL,Rebounds,2.5
+Khris Middleton,MIL,Pts+Rebs+Asts,19.5
+Taurean Prince,MIL,Blocked Shots,0.5
+Taurean Prince,MIL,3-PT Made,2.5
+Taurean Prince,MIL,Points,4.5
+Taurean Prince,MIL,Assists,2.5
+Taurean Prince,MIL,Rebounds,3.5
+Taurean Prince,MIL,Steals,1.5
+Taurean Prince,MIL,Pts+Rebs+Asts,14.5
+Taurean Prince,MIL,Pts+Rebs+Asts,9.5
+Taurean Prince,MIL,Points,10.5
+Daniel Gafford,DAL,Pts+Rebs,24.5
+Daniel Gafford,DAL,Steals,0.5
+Daniel Gafford,DAL,Pts+Rebs+Asts,26.0
+Daniel Gafford,DAL,Pts+Asts,16.5
+Daniel Gafford,DAL,Rebs+Asts,12.0
+Daniel Gafford,DAL,Rebounds,9.5
+Daniel Gafford,DAL,Points,14.5
+Jalen Williams,OKC,Pts+Asts,26.5
+Jalen Williams,OKC,Pts+Rebs,27.5
+Jalen Williams,OKC,Rebs+Asts,10.5
+Jalen Williams,OKC,Rebounds,5.5
+Jalen Williams,OKC,Pts+Rebs+Asts,32.0
+Jalen Williams,OKC,Assists,4.5
+Jalen Williams,OKC,3-PT Made,1.5
+Jalen Williams,OKC,Steals,1.5
+Jalen Williams,OKC,Points,21.0
+Klay Thompson,DAL,Rebs+Asts,5.5
+Klay Thompson,DAL,Points,11.5
+Klay Thompson,DAL,Pts+Rebs,14.5
+Klay Thompson,DAL,Pts+Asts,13.5
+Klay Thompson,DAL,Pts+Rebs+Asts,17.5
+Klay Thompson,DAL,3-PT Made,2.5
+Jaylin Williams,OKC,3-PT Made,1.5
+Jaylin Williams,OKC,Pts+Rebs,14.5
+Jaylin Williams,OKC,Pts+Rebs+Asts,17.0
+Jaylin Williams,OKC,Rebs+Asts,9.5
+Jaylin Williams,OKC,Steals,0.5
+Jaylin Williams,OKC,Points,7.5
+Kyrie Irving,DAL,Pts+Asts,29.5
+Kyrie Irving,DAL,Pts+Rebs+Asts,34.5
+Kyrie Irving,DAL,Rebs+Asts,9.0
+Kyrie Irving,DAL,Pts+Rebs,28.5
+Kyrie Irving,DAL,Points,24.5
+Kyrie Irving,DAL,Rebounds,4.0
+Kyrie Irving,DAL,Turnovers,3.5
+Luguentz Dort,OKC,Pts+Asts,11.5
+Luguentz Dort,OKC,Rebounds,4.5
+Luguentz Dort,OKC,Pts+Rebs,14.5
+Luguentz Dort,OKC,Assists,1.5
+Luguentz Dort,OKC,Pts+Rebs+Asts,16.5
+P.J. Washington,DAL,Rebs+Asts,9.5
+P.J. Washington,DAL,Pts+Rebs,21.5
+P.J. Washington,DAL,Blks+Stls,1.5
+P.J. Washington,DAL,Pts+Asts,16.5
+P.J. Washington,DAL,Turnovers,2.5
+P.J. Washington,DAL,3-PT Made,1.5
+P.J. Washington,DAL,Pts+Rebs+Asts,24.5
+P.J. Washington,DAL,Rebounds,7.5
+Shai Gilgeous-Alexander,OKC,Turnovers,2.5
+Shai Gilgeous-Alexander,OKC,Assists,6.0
+Shai Gilgeous-Alexander,OKC,Pts+Rebs+Asts,43.5
+Shai Gilgeous-Alexander,OKC,Pts+Asts,37.0
+Shai Gilgeous-Alexander,OKC,Rebounds,5.5
+Shai Gilgeous-Alexander,OKC,Rebs+Asts,12.0
+Shai Gilgeous-Alexander,OKC,Pts+Rebs,37.0
+Shai Gilgeous-Alexander,OKC,Points,31.5
+Jaylin Williams,OKC,Assists,4.5
+Jalen Williams,OKC,Pts+Rebs+Asts,39.5
+Shai Gilgeous-Alexander,OKC,Assists,4.5
+Jaylin Williams,OKC,Rebounds,4.5
+P.J. Washington,DAL,Rebounds,6.5
+Jaylin Williams,OKC,Pts+Asts,14.5
+Shai Gilgeous-Alexander,OKC,Pts+Asts,44.5
+Daniel Gafford,DAL,Pts+Rebs+Asts,29.5
+Daniel Gafford,DAL,Pts+Rebs,29.5
+Luguentz Dort,OKC,Pts+Rebs,19.5
+Kyrie Irving,DAL,Rebs+Asts,11.5
+Jaylin Williams,OKC,Rebs+Asts,11.5
+Kyrie Irving,DAL,Rebounds,3.5
+Klay Thompson,DAL,Blocked Shots,0.5
+Klay Thompson,DAL,Points,9.5
+Jaylin Williams,OKC,Pts+Rebs+Asts,24.5
+Luguentz Dort,OKC,Pts+Asts,9.5
+Kyrie Irving,DAL,Pts+Asts,24.5
+Shai Gilgeous-Alexander,OKC,Blocked Shots,0.5
+P.J. Washington,DAL,Pts+Asts,19.5
+Kyrie Irving,DAL,Assists,3.5
+Jalen Williams,OKC,Rebounds,4.5
+Jalen Williams,OKC,Pts+Asts,29.5
+Kyrie Irving,DAL,Pts+Rebs,24.5
+Luguentz Dort,OKC,Pts+Rebs+Asts,19.5
+P.J. Washington,DAL,3-PT Made,2.5
+Jalen Williams,OKC,Points,19.5
+Daniel Gafford,DAL,Pts+Asts,19.5
+Luguentz Dort,OKC,Points,14.5
+Shai Gilgeous-Alexander,OKC,Steals,2.5
+Luguentz Dort,OKC,Rebounds,5.5
+Kyrie Irving,DAL,Rebounds,5.5
+Luguentz Dort,OKC,3-PT Made,2.5
+Jaylin Williams,OKC,Pts+Asts,9.5
+Klay Thompson,DAL,Pts+Rebs+Asts,14.5
+Klay Thompson,DAL,Points,7.5
+P.J. Washington,DAL,Pts+Rebs,24.5
+Luguentz Dort,OKC,Assists,2.5
+Luguentz Dort,OKC,Rebounds,3.5
+Jalen Williams,OKC,Assists,3.5
+Shai Gilgeous-Alexander,OKC,Points,34.5
+Daniel Gafford,DAL,Turnovers,1.5
+Kyrie Irving,DAL,3-PT Made,1.5
+P.J. Washington,DAL,Assists,3.5
+Klay Thompson,DAL,3-PT Made,3.5
+Luguentz Dort,OKC,3-PT Made,1.5
+Jalen Williams,OKC,Rebs+Asts,9.5
+Klay Thompson,DAL,3-PT Made,1.5
+Daniel Gafford,DAL,Blocked Shots,2.5
+Kyrie Irving,DAL,Assists,6.5
+Kyrie Irving,DAL,Rebounds,6.5
+Jalen Williams,OKC,Pts+Asts,24.5
+Klay Thompson,DAL,3-PT Made,4.5
+Shai Gilgeous-Alexander,OKC,Pts+Rebs+Asts,49.5
+Daniel Gafford,DAL,Pts+Rebs+Asts,24.5
+Jalen Williams,OKC,Points,24.5
+Shai Gilgeous-Alexander,OKC,3-PT Made,2.5
+Klay Thompson,DAL,Rebounds,4.5
+Luguentz Dort,OKC,Steals,1.5
+Kyrie Irving,DAL,Pts+Rebs,34.5
+Daniel Gafford,DAL,Points,19.5
+Jaylin Williams,OKC,Assists,5.5
+Shai Gilgeous-Alexander,OKC,Rebounds,7.5
+Shai Gilgeous-Alexander,OKC,Assists,7.5
+Kyrie Irving,DAL,3-PT Made,3.5
+Jalen Williams,OKC,Assists,6.5
+Jalen Williams,OKC,Points,29.5
+Daniel Gafford,DAL,Steals,1.5
+Daniel Gafford,DAL,Rebounds,13.5
+Daniel Gafford,DAL,Assists,3.5
+Jalen Williams,OKC,Pts+Rebs,34.5
+Kyrie Irving,DAL,Steals,0.5
+Jalen Williams,OKC,Pts+Rebs,24.5
+Jalen Williams,OKC,Pts+Asts,34.5
+Shai Gilgeous-Alexander,OKC,Rebounds,6.5
+P.J. Washington,DAL,Steals,1.5
+P.J. Washington,DAL,Pts+Rebs+Asts,19.5
+Jalen Williams,OKC,Assists,5.5
+Daniel Gafford,DAL,Pts+Rebs,19.5
+P.J. Washington,DAL,Rebounds,9.5
+Kyrie Irving,DAL,Pts+Rebs+Asts,29.5
+Shai Gilgeous-Alexander,OKC,Steals,3.5
+Jaylin Williams,OKC,Pts+Rebs+Asts,14.5
+Jaylin Williams,OKC,Steals,1.5
+Jalen Williams,OKC,Steals,2.5
+Shai Gilgeous-Alexander,OKC,Pts+Rebs+Asts,39.5
+Jalen Williams,OKC,3-PT Made,2.5
+Klay Thompson,DAL,Rebounds,5.5
+Luguentz Dort,OKC,Points,7.5
+P.J. Washington,DAL,Pts+Rebs+Asts,29.5
+Jalen Williams,OKC,Rebs+Asts,11.5
+Luguentz Dort,OKC,Steals,0.5
+Klay Thompson,DAL,Points,17.5
+Daniel Gafford,DAL,Pts+Asts,14.5
+Jalen Williams,OKC,Pts+Rebs+Asts,29.5
+Jaylin Williams,OKC,Pts+Rebs,9.5
+Jalen Williams,OKC,Rebounds,6.5
+P.J. Washington,DAL,Pts+Asts,14.5
+Shai Gilgeous-Alexander,OKC,Pts+Rebs+Asts,54.5
+P.J. Washington,DAL,Blocked Shots,1.5
+Shai Gilgeous-Alexander,OKC,Blocked Shots,1.5
+Jaylin Williams,OKC,Rebounds,7.5
+Jaylin Williams,OKC,Pts+Rebs,19.5
+Daniel Gafford,DAL,Blocked Shots,1.5
+P.J. Washington,DAL,Assists,2.5
+Klay Thompson,DAL,Rebounds,2.5
+Daniel Gafford,DAL,Assists,2.5
+Klay Thompson,DAL,Assists,1.5
+Kyrie Irving,DAL,Pts+Rebs+Asts,44.5
+Daniel Gafford,DAL,Rebounds,7.5
+P.J. Washington,DAL,Rebounds,5.5
+Daniel Gafford,DAL,Blocked Shots,3.5
+Kyrie Irving,DAL,Points,29.5
+Klay Thompson,DAL,Points,14.5
+Jalen Williams,OKC,Rebounds,7.5
+Shai Gilgeous-Alexander,OKC,Pts+Asts,34.5
+Kyrie Irving,DAL,Pts+Rebs+Asts,39.5
+Jaylin Williams,OKC,Points,11.5
+Shai Gilgeous-Alexander,OKC,Points,39.5
+Kyrie Irving,DAL,Steals,1.5
+Kyrie Irving,DAL,Pts+Asts,34.5
+Shai Gilgeous-Alexander,OKC,Rebounds,4.5
+Kyrie Irving,DAL,Blocked Shots,0.5
+Jaylin Williams,OKC,Points,4.5
+Luguentz Dort,OKC,Pts+Asts,14.5
+P.J. Washington,DAL,Points,19.5
+Shai Gilgeous-Alexander,OKC,Pts+Rebs,34.5
+Jaylin Williams,OKC,3-PT Made,2.5
+Daniel Gafford,DAL,Rebounds,12.5
+Kyrie Irving,DAL,Points,19.5
+Jalen Williams,OKC,Blocked Shots,1.5
+P.J. Washington,DAL,Pts+Rebs,29.5
+P.J. Washington,DAL,Pts+Rebs,19.5
+Kyrie Irving,DAL,Assists,7.5
+Shai Gilgeous-Alexander,OKC,Pts+Rebs,44.5
+Luguentz Dort,OKC,Pts+Rebs+Asts,14.5
+Daniel Gafford,DAL,Pts+Rebs+Asts,34.5
+Luguentz Dort,OKC,3-PT Made,3.5
+Luguentz Dort,OKC,Rebounds,6.5
+Kyrie Irving,DAL,3-PT Made,4.5
+Kyrie Irving,DAL,Pts+Asts,39.5
+Kyrie Irving,DAL,Pts+Rebs,39.5
+Shai Gilgeous-Alexander,OKC,Assists,5.5
+De'Aaron Fox,SAC,Pts+Rebs+Asts,34.0
+De'Aaron Fox,SAC,Turnovers,2.5
+De'Aaron Fox,SAC,Points,23.0
+De'Aaron Fox,SAC,Pts+Asts,29.5
+De'Aaron Fox,SAC,Pts+Rebs,27.5
+De'Aaron Fox,SAC,Rebounds,4.5
+De'Aaron Fox,SAC,Rebs+Asts,10.5
+Nikola Jokic,DEN,Assists,9.5
+Nikola Jokic,DEN,3-PT Made,1.5
+Nikola Jokic,DEN,Pts+Rebs+Asts,49.5
+Nikola Jokic,DEN,Points,27.5
+Nikola Jokic,DEN,Pts+Rebs,40.5
+Nikola Jokic,DEN,Rebounds,12.5
+Nikola Jokic,DEN,Rebs+Asts,22.0
+Nikola Jokic,DEN,Pts+Asts,37.5
+DeMar DeRozan,SAC,Pts+Asts,24.5
+DeMar DeRozan,SAC,Pts+Rebs+Asts,28.5
+DeMar DeRozan,SAC,Rebs+Asts,6.5
+DeMar DeRozan,SAC,Turnovers,1.5
+DeMar DeRozan,SAC,Pts+Rebs,25.0
+DeMar DeRozan,SAC,Blks+Stls,1.5
+DeMar DeRozan,SAC,Points,21.5
+Jamal Murray,DEN,Assists,6.0
+Jamal Murray,DEN,Pts+Rebs,24.0
+Jamal Murray,DEN,Pts+Asts,26.5
+Jamal Murray,DEN,Pts+Rebs+Asts,30.0
+Jamal Murray,DEN,Points,20.5
+Malik Monk,SAC,3-PT Made,2.5
+Malik Monk,SAC,Rebs+Asts,9.0
+Malik Monk,SAC,Blks+Stls,1.5
+Malik Monk,SAC,Pts+Rebs,22.0
+Malik Monk,SAC,Pts+Rebs+Asts,28.0
+Malik Monk,SAC,Points,18.5
+Malik Monk,SAC,Pts+Asts,25.5
+Michael Porter Jr.,DEN,3-PT Made,2.5
+Michael Porter Jr.,DEN,Pts+Asts,17.5
+Michael Porter Jr.,DEN,Points,16.5
+Michael Porter Jr.,DEN,Pts+Rebs,21.5
+Michael Porter Jr.,DEN,Pts+Rebs+Asts,23.5
+Michael Porter Jr.,DEN,Rebs+Asts,7.0
+Michael Porter Jr.,DEN,Steals,0.5
+Michael Porter Jr.,DEN,Rebounds,5.5
+Domantas Sabonis,SAC,Pts+Asts,25.5
+Domantas Sabonis,SAC,Points,18.5
+Domantas Sabonis,SAC,Pts+Rebs,32.5
+Domantas Sabonis,SAC,Rebounds,13.0
+Domantas Sabonis,SAC,Assists,6.5
+Domantas Sabonis,SAC,Turnovers,2.5
+Domantas Sabonis,SAC,Rebs+Asts,19.5
+Domantas Sabonis,SAC,Pts+Rebs+Asts,38.5
+Russell Westbrook,DEN,Pts+Rebs,17.5
+Russell Westbrook,DEN,Pts+Asts,19.5
+Russell Westbrook,DEN,Rebs+Asts,11.5
+Russell Westbrook,DEN,Points,12.5
+Russell Westbrook,DEN,Pts+Rebs+Asts,24.5
+Russell Westbrook,DEN,Assists,6.5
+Russell Westbrook,DEN,Rebounds,5.0
+Russell Westbrook,DEN,Turnovers,2.5
+Keegan Murray,SAC,Pts+Asts,12.5
+Keegan Murray,SAC,Points,11.5
+Keegan Murray,SAC,Pts+Rebs+Asts,18.5
+Keegan Murray,SAC,Rebs+Asts,6.5
+Keegan Murray,SAC,Pts+Rebs,17.5
+Christian Braun,DEN,Pts+Rebs+Asts,17.5
+Christian Braun,DEN,Pts+Rebs,15.5
+Christian Braun,DEN,Assists,1.5
+Christian Braun,DEN,Pts+Asts,13.5
+Christian Braun,DEN,Rebs+Asts,5.0
+Christian Braun,DEN,Points,11.5
+Trey Lyles,SAC,Rebs+Asts,5.0
+Trey Lyles,SAC,Points,6.0
+Trey Lyles,SAC,Pts+Asts,7.0
+Trey Lyles,SAC,Pts+Rebs+Asts,11.5
+Trey Lyles,SAC,Pts+Rebs,10.5
+Aaron Gordon,DEN,Points,10.0
+Aaron Gordon,DEN,Pts+Asts,12.5
+Aaron Gordon,DEN,Blks+Stls,0.5
+Aaron Gordon,DEN,Pts+Rebs,13.5
+Aaron Gordon,DEN,Pts+Rebs+Asts,16.5
+Aaron Gordon,DEN,Rebs+Asts,6.0
+Keon Ellis,SAC,Pts+Asts,7.5
+Keon Ellis,SAC,Pts+Rebs+Asts,9.5
+Keon Ellis,SAC,Pts+Rebs,8.5
+Julian Strawther,DEN,Pts+Asts,10.5
+Julian Strawther,DEN,3-PT Made,1.5
+Julian Strawther,DEN,Pts+Rebs+Asts,12.5
+Julian Strawther,DEN,Blks+Stls,0.5
+Julian Strawther,DEN,Rebs+Asts,3.5
+Julian Strawther,DEN,Points,9.5
+Julian Strawther,DEN,Pts+Rebs,11.5
+Peyton Watson,DEN,Pts+Asts,7.5
+Peyton Watson,DEN,Blks+Stls,1.5
+Peyton Watson,DEN,Points,6.5
+Peyton Watson,DEN,Turnovers,0.5
+Peyton Watson,DEN,Pts+Rebs+Asts,10.5
+Keegan Murray,SAC,Points,7.5
+Keegan Murray,SAC,Points,9.5
+Jamal Murray,DEN,Rebounds,2.5
+Malik Monk,SAC,3-PT Made,4.5
+Russell Westbrook,DEN,Assists,4.5
+De'Aaron Fox,SAC,Rebounds,3.5
+Domantas Sabonis,SAC,Rebounds,16.5
+Jamal Murray,DEN,Assists,4.5
+Malik Monk,SAC,Rebs+Asts,11.5
+Michael Porter Jr.,DEN,Steals,1.5
+Keon Ellis,SAC,Assists,0.5
+Aaron Gordon,DEN,Blocked Shots,0.5
+Michael Porter Jr.,DEN,Assists,2.5
+Julian Strawther,DEN,Assists,2.5
+Peyton Watson,DEN,Assists,1.5
+Trey Lyles,SAC,Assists,1.5
+Malik Monk,SAC,Pts+Rebs+Asts,34.5
+DeMar DeRozan,SAC,3-PT Made,1.5
+Christian Braun,DEN,Rebounds,2.5
+Keon Ellis,SAC,Rebounds,1.5
+Russell Westbrook,DEN,Pts+Rebs+Asts,19.5
+De'Aaron Fox,SAC,Points,29.5
+Aaron Gordon,DEN,Pts+Rebs,9.5
+Domantas Sabonis,SAC,Pts+Asts,19.5
+Russell Westbrook,DEN,3-PT Made,1.5
+Russell Westbrook,DEN,Pts+Rebs,14.5
+DeMar DeRozan,SAC,Steals,0.5
+Jamal Murray,DEN,Assists,6.5
+Aaron Gordon,DEN,Rebounds,2.5
+Keon Ellis,SAC,Pts+Asts,9.5
+Malik Monk,SAC,Steals,1.5
+De'Aaron Fox,SAC,Assists,4.5
+Michael Porter Jr.,DEN,Pts+Rebs,29.5
+Michael Porter Jr.,DEN,Pts+Asts,24.5
+Malik Monk,SAC,Pts+Rebs+Asts,24.5
+Peyton Watson,DEN,Pts+Asts,9.5
+Michael Porter Jr.,DEN,Pts+Rebs+Asts,29.5
+Domantas Sabonis,SAC,Assists,4.5
+De'Aaron Fox,SAC,Rebs+Asts,11.5
+Keegan Murray,SAC,Pts+Rebs+Asts,14.5
+Keon Ellis,SAC,3-PT Made,2.5
+Michael Porter Jr.,DEN,Points,22.5
+Nikola Jokic,DEN,Pts+Rebs,49.5
+Nikola Jokic,DEN,Pts+Rebs,34.5
+Jamal Murray,DEN,3-PT Made,1.5
+Malik Monk,SAC,Rebounds,4.5
+Russell Westbrook,DEN,Pts+Asts,24.5
+Peyton Watson,DEN,Rebounds,4.5
+Peyton Watson,DEN,Pts+Rebs+Asts,9.5
+Trey Lyles,SAC,Pts+Rebs,14.5
+Trey Lyles,SAC,Blocked Shots,0.5
+Trey Lyles,SAC,3-PT Made,2.5
+Aaron Gordon,DEN,3-PT Made,1.5
+Malik Monk,SAC,Blocked Shots,1.5
+DeMar DeRozan,SAC,Pts+Asts,29.5
+Domantas Sabonis,SAC,Pts+Asts,29.5
+DeMar DeRozan,SAC,Points,24.5
+Malik Monk,SAC,Steals,0.5
+De'Aaron Fox,SAC,Pts+Asts,24.5
+Nikola Jokic,DEN,Rebounds,16.5
+Nikola Jokic,DEN,Pts+Rebs+Asts,59.5
+Aaron Gordon,DEN,Pts+Rebs,19.5
+Jamal Murray,DEN,Rebounds,5.5
+Aaron Gordon,DEN,Turnovers,0.5
+De'Aaron Fox,SAC,Pts+Rebs,24.5
+Aaron Gordon,DEN,Pts+Rebs+Asts,14.5
+Domantas Sabonis,SAC,Points,14.5
+Christian Braun,DEN,Blocked Shots,0.5
+De'Aaron Fox,SAC,Steals,2.5
+Keegan Murray,SAC,Steals,1.5
+Jamal Murray,DEN,Pts+Asts,29.5
+Christian Braun,DEN,Rebounds,5.5
+Michael Porter Jr.,DEN,Pts+Rebs,19.5
+Malik Monk,SAC,Assists,7.5
+DeMar DeRozan,SAC,Pts+Rebs,19.5
+Nikola Jokic,DEN,Pts+Rebs,44.5
+Nikola Jokic,DEN,3-PT Made,2.5
+Keegan Murray,SAC,Pts+Asts,9.5
+Peyton Watson,DEN,Blocked Shots,0.5
+Russell Westbrook,DEN,Pts+Rebs+Asts,29.5
+DeMar DeRozan,SAC,Rebounds,4.5
+Keon Ellis,SAC,Points,9.5
+Julian Strawther,DEN,Blocked Shots,0.5
+Malik Monk,SAC,3-PT Made,1.5
+Russell Westbrook,DEN,Points,19.5
+Domantas Sabonis,SAC,Pts+Rebs+Asts,44.5
+Domantas Sabonis,SAC,Assists,7.5
+Jamal Murray,DEN,Pts+Rebs+Asts,24.5
+Trey Lyles,SAC,3-PT Made,0.5
+Domantas Sabonis,SAC,3-PT Made,1.5
+Trey Lyles,SAC,Points,9.5
+Aaron Gordon,DEN,Rebs+Asts,7.5
+Christian Braun,DEN,3-PT Made,0.5
+Domantas Sabonis,SAC,Blocked Shots,0.5
+Peyton Watson,DEN,Rebounds,3.5
+Russell Westbrook,DEN,Pts+Asts,14.5
+Aaron Gordon,DEN,Steals,0.5
+Nikola Jokic,DEN,Assists,7.5
+Aaron Gordon,DEN,Assists,1.5
+Christian Braun,DEN,Pts+Rebs,14.5
+DeMar DeRozan,SAC,Pts+Rebs,34.5
+Nikola Jokic,DEN,Assists,12.5
+De'Aaron Fox,SAC,Blocked Shots,0.5
+Malik Monk,SAC,Points,24.5
+De'Aaron Fox,SAC,Rebs+Asts,9.5
+Malik Monk,SAC,Rebounds,2.5
+De'Aaron Fox,SAC,3-PT Made,2.5
+Michael Porter Jr.,DEN,Blocked Shots,0.5
+Russell Westbrook,DEN,Assists,9.5
+Aaron Gordon,DEN,Rebounds,5.5
+DeMar DeRozan,SAC,Assists,4.5
+Jamal Murray,DEN,Points,24.5
+Keegan Murray,SAC,Pts+Rebs+Asts,24.5
+Malik Monk,SAC,Pts+Rebs,19.5
+Christian Braun,DEN,Pts+Rebs,19.5
+Trey Lyles,SAC,Pts+Asts,9.5
+DeMar DeRozan,SAC,Pts+Rebs+Asts,34.5
+De'Aaron Fox,SAC,Rebounds,5.5
+Domantas Sabonis,SAC,3-PT Made,0.5
+Nikola Jokic,DEN,Assists,11.5
+Keegan Murray,SAC,3-PT Made,3.5
+De'Aaron Fox,SAC,Rebounds,6.5
+Christian Braun,DEN,Assists,2.5
+Malik Monk,SAC,Assists,4.5
+Christian Braun,DEN,Pts+Rebs+Asts,14.5
+Keon Ellis,SAC,Pts+Rebs,14.5
+Aaron Gordon,DEN,Rebs+Asts,9.5
+DeMar DeRozan,SAC,Blocked Shots,0.5
+Aaron Gordon,DEN,Rebounds,6.5
+Aaron Gordon,DEN,Assists,3.5
+Michael Porter Jr.,DEN,3-PT Made,4.5
+Christian Braun,DEN,Steals,1.5
+Keegan Murray,SAC,Steals,0.5
+Russell Westbrook,DEN,Assists,7.5
+De'Aaron Fox,SAC,Pts+Rebs,34.5
+Peyton Watson,DEN,Points,9.5
+Trey Lyles,SAC,Pts+Rebs,9.5
+DeMar DeRozan,SAC,Pts+Rebs,29.5
+De'Aaron Fox,SAC,3-PT Made,3.5
+Nikola Jokic,DEN,Points,24.5
+Jamal Murray,DEN,Pts+Asts,34.5
+Russell Westbrook,DEN,Points,9.5
+Michael Porter Jr.,DEN,3-PT Made,1.5
+Keegan Murray,SAC,Blocked Shots,1.5
+DeMar DeRozan,SAC,Pts+Asts,34.5
+Jamal Murray,DEN,Steals,2.5
+DeMar DeRozan,SAC,Pts+Rebs+Asts,24.5
+Peyton Watson,DEN,Pts+Rebs,14.5
+Russell Westbrook,DEN,Pts+Rebs,24.5
+DeMar DeRozan,SAC,Points,29.5
+Aaron Gordon,DEN,Assists,2.5
+Keegan Murray,SAC,Assists,1.5
+Keon Ellis,SAC,Assists,1.5
+Jamal Murray,DEN,3-PT Made,3.5
+Jamal Murray,DEN,Steals,0.5
+Julian Strawther,DEN,Rebounds,3.5
+Michael Porter Jr.,DEN,Pts+Rebs+Asts,19.5
+Julian Strawther,DEN,Pts+Rebs,9.5
+Keegan Murray,SAC,3-PT Made,2.5
+Nikola Jokic,DEN,Rebounds,15.5
+Julian Strawther,DEN,Pts+Asts,9.5
+Julian Strawther,DEN,Points,14.5
+Keegan Murray,SAC,Pts+Asts,19.5
+Keegan Murray,SAC,Pts+Asts,14.5
+Aaron Gordon,DEN,Points,14.5
+Trey Lyles,SAC,Pts+Rebs+Asts,9.5
+Russell Westbrook,DEN,Rebounds,3.5
+Russell Westbrook,DEN,Rebounds,6.5
+De'Aaron Fox,SAC,Points,19.5
+Michael Porter Jr.,DEN,Rebounds,4.5
+Domantas Sabonis,SAC,Assists,5.5
+Jamal Murray,DEN,Pts+Rebs+Asts,34.5
+Keegan Murray,SAC,Rebounds,7.5
+Trey Lyles,SAC,Pts+Rebs+Asts,14.5
+Christian Braun,DEN,Pts+Asts,19.5
+Trey Lyles,SAC,3-PT Made,1.5
+Peyton Watson,DEN,Assists,2.5
+DeMar DeRozan,SAC,Points,19.5
+De'Aaron Fox,SAC,Steals,0.5
+Julian Strawther,DEN,Pts+Rebs+Asts,9.5
+Russell Westbrook,DEN,3-PT Made,0.5
+Michael Porter Jr.,DEN,Points,14.5
+Domantas Sabonis,SAC,Steals,1.5
+Jamal Murray,DEN,Steals,1.5
+Nikola Jokic,DEN,Points,34.5
+Michael Porter Jr.,DEN,Points,11.5
+Keegan Murray,SAC,3-PT Made,1.5
+Keegan Murray,SAC,Rebounds,4.5
+DeMar DeRozan,SAC,Pts+Asts,19.5
+Keon Ellis,SAC,Steals,0.5
+Nikola Jokic,DEN,Pts+Asts,44.5
+Russell Westbrook,DEN,Assists,5.5
+Malik Monk,SAC,3-PT Made,3.5
+De'Aaron Fox,SAC,Assists,7.5
+Trey Lyles,SAC,Rebounds,6.5
+Aaron Gordon,DEN,Points,7.5
+Keegan Murray,SAC,Points,14.5
+Jamal Murray,DEN,Pts+Rebs+Asts,39.5
+Julian Strawther,DEN,Points,5.5
+Michael Porter Jr.,DEN,3-PT Made,3.5
+Russell Westbrook,DEN,Steals,0.5
+Michael Porter Jr.,DEN,Rebounds,6.5
+DeMar DeRozan,SAC,Rebounds,2.5
+Aaron Gordon,DEN,Pts+Asts,9.5
+Julian Strawther,DEN,Pts+Asts,14.5
+Aaron Gordon,DEN,Pts+Asts,14.5
+Nikola Jokic,DEN,Steals,2.5
+Peyton Watson,DEN,3-PT Made,1.5
+Keon Ellis,SAC,3-PT Made,0.5
+De'Aaron Fox,SAC,Points,30.5
+Malik Monk,SAC,Pts+Asts,29.5
+Jamal Murray,DEN,Pts+Rebs,19.5
+Nikola Jokic,DEN,Pts+Asts,34.5
+Julian Strawther,DEN,Rebounds,2.5
+Christian Braun,DEN,Pts+Rebs+Asts,24.5
+Keon Ellis,SAC,Pts+Rebs+Asts,14.5
+De'Aaron Fox,SAC,Pts+Asts,34.5
+Jamal Murray,DEN,Pts+Asts,24.5
+Domantas Sabonis,SAC,Rebounds,11.5
+Julian Strawther,DEN,3-PT Made,2.5
+Jamal Murray,DEN,Pts+Rebs,29.5
+Peyton Watson,DEN,Pts+Rebs+Asts,14.5
+Julian Strawther,DEN,Pts+Rebs,14.5
+Trey Lyles,SAC,Rebounds,2.5
+Keegan Murray,SAC,Assists,0.5
+Jamal Murray,DEN,Rebs+Asts,11.5
+Domantas Sabonis,SAC,Pts+Rebs+Asts,34.5
+Domantas Sabonis,SAC,Rebounds,17.5
+Christian Braun,DEN,Points,9.5
+Keegan Murray,SAC,Points,17.5
+De'Aaron Fox,SAC,Pts+Rebs+Asts,39.5
+Nikola Jokic,DEN,Pts+Rebs+Asts,44.5
+Domantas Sabonis,SAC,Points,24.5
+De'Aaron Fox,SAC,3-PT Made,1.5
+Jamal Murray,DEN,Assists,7.5
+Christian Braun,DEN,3-PT Made,1.5
+DeMar DeRozan,SAC,Rebs+Asts,9.5
+De'Aaron Fox,SAC,Pts+Rebs+Asts,29.5
+Russell Westbrook,DEN,Rebounds,7.5
+Malik Monk,SAC,Points,14.5
+Michael Porter Jr.,DEN,Rebounds,7.5
+Nikola Jokic,DEN,Pts+Rebs+Asts,54.5
+Malik Monk,SAC,Pts+Asts,19.5
+Julian Strawther,DEN,Pts+Rebs+Asts,19.5
+Russell Westbrook,DEN,Steals,1.5
+Michael Porter Jr.,DEN,Points,19.5
+Jamal Murray,DEN,Rebounds,4.5
+Michael Porter Jr.,DEN,Pts+Asts,14.5
+Malik Monk,SAC,Pts+Rebs,29.5
+Aaron Gordon,DEN,Pts+Rebs+Asts,19.5
+Christian Braun,DEN,Points,17.5
+Zach LaVine,CHI,Points,27.0
+Zach LaVine,CHI,Rebounds,4.5
+Zach LaVine,CHI,Pts+Asts,31.5
+Zach LaVine,CHI,Pts+Rebs+Asts,36.0
+Zach LaVine,CHI,Rebs+Asts,9.0
+Zach LaVine,CHI,Pts+Rebs,31.5
+Stephen Curry,GSW,Assists,7.0
+Stephen Curry,GSW,Pts+Rebs+Asts,39.0
+Stephen Curry,GSW,Points,26.0
+Stephen Curry,GSW,Rebs+Asts,12.5
+Stephen Curry,GSW,Pts+Rebs,32.0
+Stephen Curry,GSW,Pts+Asts,33.5
+Stephen Curry,GSW,Blks+Stls,1.5
+Stephen Curry,GSW,3-PT Made,4.5
+Nikola Vucevic,CHI,Points,19.5
+Nikola Vucevic,CHI,Pts+Rebs,30.5
+Nikola Vucevic,CHI,Turnovers,1.5
+Nikola Vucevic,CHI,Rebounds,11.0
+Nikola Vucevic,CHI,Blks+Stls,1.5
+Nikola Vucevic,CHI,Pts+Rebs+Asts,34.5
+Nikola Vucevic,CHI,Pts+Asts,23.5
+Nikola Vucevic,CHI,Rebs+Asts,14.0
+Ayo Dosunmu,CHI,Assists,5.0
+Ayo Dosunmu,CHI,Pts+Rebs,17.5
+Ayo Dosunmu,CHI,Pts+Asts,18.5
+Ayo Dosunmu,CHI,Pts+Rebs+Asts,22.5
+Ayo Dosunmu,CHI,Points,13.5
+Ayo Dosunmu,CHI,Rebs+Asts,8.5
+Ayo Dosunmu,CHI,Blks+Stls,1.5
+Ayo Dosunmu,CHI,Rebounds,3.5
+Josh Giddey,CHI,Pts+Rebs+Asts,27.5
+Josh Giddey,CHI,Rebounds,7.5
+Josh Giddey,CHI,Points,12.5
+Josh Giddey,CHI,Assists,7.0
+Josh Giddey,CHI,Rebs+Asts,15.0
+Josh Giddey,CHI,Pts+Asts,19.5
+Josh Giddey,CHI,Pts+Rebs,20.0
+Patrick Williams,CHI,Rebs+Asts,5.0
+Patrick Williams,CHI,Pts+Rebs+Asts,14.5
+Patrick Williams,CHI,3-PT Made,1.5
+Patrick Williams,CHI,Points,9.5
+Patrick Williams,CHI,Pts+Rebs,12.5
+Lonzo Ball,CHI,Pts+Rebs+Asts,15.5
+Lonzo Ball,CHI,Pts+Asts,12.0
+Lonzo Ball,CHI,Points,8.0
+Lonzo Ball,CHI,Rebounds,3.5
+Lonzo Ball,CHI,Rebs+Asts,7.5
+Lonzo Ball,CHI,Pts+Rebs,11.5
+Derrick White,BOS,FG Attempted,10.0
+Derrick White,BOS,FG Made,4.5
+Derrick White,BOS,Rebs+Asts,7.5
+Derrick White,BOS,Pts+Rebs+Asts,20.5
+Derrick White,BOS,Pts+Rebs,16.5
+Derrick White,BOS,Pts+Asts,16.5
+Derrick White,BOS,Points,12.5
+Derrick White,BOS,3-PT Made,2.5
+Anthony Davis,LAL,Offensive Rebounds,2.5
+Anthony Davis,LAL,Free Throws Made,6.0
+Anthony Davis,LAL,Dunks,1.5
+Anthony Davis,LAL,FG Attempted,17.5
+Anthony Davis,LAL,Defensive Rebounds,9.0
+Anthony Davis,LAL,FG Made,9.5
+Anthony Davis,LAL,Pts+Asts,27.5
+Anthony Davis,LAL,Pts+Rebs,36.5
+Anthony Davis,LAL,Rebounds,11.5
+Anthony Davis,LAL,Pts+Rebs+Asts,39.5
+Anthony Davis,LAL,Points,24.5
+Anthony Davis,LAL,Rebs+Asts,15.0
+Jaylen Brown,BOS,FG Attempted,17.5
+Jaylen Brown,BOS,FG Made,8.5
+Jaylen Brown,BOS,Rebs+Asts,10.0
+Jaylen Brown,BOS,Turnovers,2.5
+Jaylen Brown,BOS,Blks+Stls,1.5
+Jaylen Brown,BOS,Pts+Rebs+Asts,31.5
+Jaylen Brown,BOS,3-PT Made,1.5
+Jaylen Brown,BOS,Pts+Rebs,27.5
+Jaylen Brown,BOS,Pts+Asts,26.5
+Jaylen Brown,BOS,Assists,4.5
+Jaylen Brown,BOS,Points,21.5
+Austin Reaves,LAL,FG Made,5.5
+Austin Reaves,LAL,FG Attempted,12.5
+Austin Reaves,LAL,Points,17.5
+Austin Reaves,LAL,Pts+Rebs+Asts,27.5
+Austin Reaves,LAL,Pts+Asts,23.5
+Austin Reaves,LAL,Pts+Rebs,20.5
+Jayson Tatum,BOS,FG Attempted,19.0
+Jayson Tatum,BOS,Defensive Rebounds,7.5
+Jayson Tatum,BOS,Dunks,1.5
+Jayson Tatum,BOS,3-PT Attempted,9.5
+Jayson Tatum,BOS,FG Made,9.5
+Jayson Tatum,BOS,Free Throws Made,5.0
+Jayson Tatum,BOS,Rebounds,8.5
+Jayson Tatum,BOS,Pts+Rebs+Asts,40.5
+Jayson Tatum,BOS,Pts+Rebs,34.5
+Jayson Tatum,BOS,Pts+Asts,31.5
+Jayson Tatum,BOS,Points,25.5
+Jayson Tatum,BOS,Rebs+Asts,14.0
+LeBron James,LAL,FG Attempted,17.0
+LeBron James,LAL,FG Made,8.5
+LeBron James,LAL,3-PT Attempted,5.0
+LeBron James,LAL,Free Throws Made,3.0
+LeBron James,LAL,Rebs+Asts,15.5
+LeBron James,LAL,Pts+Rebs,29.5
+LeBron James,LAL,Turnovers,3.5
+LeBron James,LAL,Pts+Rebs+Asts,38.0
+LeBron James,LAL,Points,22.5
+LeBron James,LAL,Pts+Asts,31.5
+Jrue Holiday,BOS,Rebs+Asts,8.0
+Jrue Holiday,BOS,3-PT Made,1.5
+Jrue Holiday,BOS,Points,9.5
+Jrue Holiday,BOS,Pts+Rebs+Asts,17.5
+Jrue Holiday,BOS,Pts+Rebs,14.0
+Max Christie,LAL,Rebs+Asts,4.5
+Max Christie,LAL,Points,9.5
+Max Christie,LAL,Pts+Rebs,12.5
+Max Christie,LAL,3-PT Made,1.5
+Max Christie,LAL,Pts+Rebs+Asts,14.5
+Max Christie,LAL,Pts+Asts,11.5
+Max Christie,LAL,Assists,1.5
+Kristaps Porzingis,BOS,Free Throws Made,4.0
+Kristaps Porzingis,BOS,FG Made,6.5
+Kristaps Porzingis,BOS,3-PT Attempted,5.5
+Kristaps Porzingis,BOS,Rebounds,7.0
+Kristaps Porzingis,BOS,Pts+Rebs+Asts,27.5
+Kristaps Porzingis,BOS,Points,18.5
+Kristaps Porzingis,BOS,Pts+Rebs,26.0
+Kristaps Porzingis,BOS,Assists,1.5
+Kristaps Porzingis,BOS,Pts+Asts,19.5
+Rui Hachimura,LAL,FG Attempted,8.5
+Rui Hachimura,LAL,Pts+Rebs,15.5
+Rui Hachimura,LAL,Points,10.5
+Rui Hachimura,LAL,Rebounds,4.0
+Rui Hachimura,LAL,Pts+Rebs+Asts,16.5
+Rui Hachimura,LAL,Rebs+Asts,5.5
+Rui Hachimura,LAL,Pts+Asts,12.5
+Dorian Finney-Smith,LAL,Pts+Rebs,9.0
+Dorian Finney-Smith,LAL,Pts+Rebs+Asts,10.5
+Dorian Finney-Smith,LAL,Points,6.0
+Zach LaVine,CHI,3-PT Made,4.5
+Zach LaVine,CHI,Pts+Asts,39.5
+Stephen Curry,GSW,Pts+Rebs,29.5
+Stephen Curry,GSW,Rebs+Asts,11.5
+Patrick Williams,CHI,3-PT Made,2.5
+Patrick Williams,CHI,Points,14.5
+Patrick Williams,CHI,Pts+Rebs,9.5
+Patrick Williams,CHI,Pts+Rebs,19.5
+Patrick Williams,CHI,Rebounds,5.5
+Patrick Williams,CHI,Steals,1.5
+Nikola Vucevic,CHI,Pts+Asts,29.5
+Nikola Vucevic,CHI,Pts+Rebs,39.5
+Lonzo Ball,CHI,3-PT Made,3.5
+Lonzo Ball,CHI,Blocked Shots,1.5
+Lonzo Ball,CHI,Pts+Asts,19.5
+Lonzo Ball,CHI,Pts+Rebs,9.5
+Lonzo Ball,CHI,Pts+Rebs,19.5
+Lonzo Ball,CHI,Pts+Rebs+Asts,24.5
+Lonzo Ball,CHI,Rebounds,5.5
+Lonzo Ball,CHI,Rebs+Asts,11.5
+Josh Giddey,CHI,Blocked Shots,1.5
+Josh Giddey,CHI,Points,17.5
+Josh Giddey,CHI,Rebounds,11.5
+Josh Giddey,CHI,Rebs+Asts,19.5
+Ayo Dosunmu,CHI,Assists,6.5
+Ayo Dosunmu,CHI,Points,11.5
+Ayo Dosunmu,CHI,Pts+Rebs+Asts,19.5
+Anthony Davis,LAL,Pts+Rebs,29.5
+Jrue Holiday,BOS,Assists,4.5
+LeBron James,LAL,Rebounds,7.5
+Austin Reaves,LAL,Pts+Rebs,24.5
+Rui Hachimura,LAL,3-PT Made,2.5
+Rui Hachimura,LAL,Pts+Asts,19.5
+Rui Hachimura,LAL,Pts+Rebs,14.5
+Rui Hachimura,LAL,Pts+Rebs+Asts,24.5
+Rui Hachimura,LAL,Rebounds,6.5
+Max Christie,LAL,Blocked Shots,0.5
+Max Christie,LAL,Points,14.5
+Max Christie,LAL,Pts+Asts,9.5
+Max Christie,LAL,Pts+Asts,14.5
+Max Christie,LAL,Pts+Rebs,19.5
+LeBron James,LAL,Pts+Asts,39.5
+Kristaps Porzingis,BOS,3-PT Made,3.5
+Kristaps Porzingis,BOS,Pts+Rebs,34.5
+Kristaps Porzingis,BOS,Pts+Rebs+Asts,34.5
+Kristaps Porzingis,BOS,Steals,1.5
+Jrue Holiday,BOS,Assists,5.5
+Jrue Holiday,BOS,Points,7.5
+Jayson Tatum,BOS,3-PT Made,2.5
+Jayson Tatum,BOS,3-PT Made,5.5
+Jayson Tatum,BOS,Assists,7.5
+Jayson Tatum,BOS,Pts+Asts,39.5
+Jayson Tatum,BOS,Pts+Rebs,44.5
+Jayson Tatum,BOS,Pts+Rebs+Asts,44.5
+Jayson Tatum,BOS,Rebounds,11.5
+Jayson Tatum,BOS,Steals,2.5
+Jaylen Brown,BOS,Assists,6.5
+Jaylen Brown,BOS,Pts+Asts,24.5
+Jaylen Brown,BOS,Pts+Asts,34.5
+Jaylen Brown,BOS,Pts+Rebs,34.5
+Jaylen Brown,BOS,Steals,2.5
+Derrick White,BOS,Pts+Rebs,24.5
+Austin Reaves,LAL,Assists,9.5
+Austin Reaves,LAL,Points,24.5
+Austin Reaves,LAL,Pts+Asts,29.5
+Austin Reaves,LAL,Steals,0.5
+Anthony Davis,LAL,3-PT Made,0.5
+Anthony Davis,LAL,Assists,5.5
+Anthony Davis,LAL,Pts+Rebs,44.5
+Anthony Davis,LAL,Rebounds,15.5
+Anthony Davis,LAL,Rebs+Asts,19.5
+Jayson Tatum,BOS,Points,29.5
+Austin Reaves,LAL,Points,19.5
+Stephen Curry,GSW,Points,29.5
+Jayson Tatum,BOS,Rebounds,6.5
+Josh Giddey,CHI,Points,9.5
+Jayson Tatum,BOS,Rebounds,7.5
+Kristaps Porzingis,BOS,Pts+Rebs+Asts,24.5
+Stephen Curry,GSW,Points,19.5
+Jaylen Brown,BOS,Points,19.5
+Rui Hachimura,LAL,Points,14.5
+Lonzo Ball,CHI,3-PT Made,2.5
+Kristaps Porzingis,BOS,3-PT Made,2.5
+Jayson Tatum,BOS,Rebounds,9.5
+LeBron James,LAL,Points,17.5
+Anthony Davis,LAL,Points,19.5
+Zach LaVine,CHI,Points,24.5
+Jayson Tatum,BOS,Assists,6.5
+Austin Reaves,LAL,Points,14.5
+Kristaps Porzingis,BOS,Points,14.5
+Derrick White,BOS,Assists,2.5
+Jaylen Brown,BOS,Pts+Rebs+Asts,29.5
+LeBron James,LAL,Pts+Rebs+Asts,34.5
+Jayson Tatum,BOS,Pts+Rebs+Asts,34.5
+Anthony Davis,LAL,Pts+Rebs+Asts,34.5
+Nikola Vucevic,CHI,Rebounds,9.5
+Jrue Holiday,BOS,Points,5.5
+Derrick White,BOS,Pts+Asts,19.5
+Kristaps Porzingis,BOS,Pts+Rebs,19.5
+Kristaps Porzingis,BOS,Rebounds,6.5
+Zach LaVine,CHI,3-PT Made,1.5
+Kristaps Porzingis,BOS,3-PT Made,1.5
+LeBron James,LAL,3-PT Made,1.5
+Nikola Vucevic,CHI,Rebounds,12.5
+Austin Reaves,LAL,3-PT Made,1.5
+Derrick White,BOS,Rebounds,4.5
+LeBron James,LAL,Assists,6.5
+Rui Hachimura,LAL,Assists,1.5
+Nikola Vucevic,CHI,Pts+Rebs,34.5
+LeBron James,LAL,Blocked Shots,0.5
+Rui Hachimura,LAL,Points,7.5
+Lonzo Ball,CHI,Pts+Rebs+Asts,14.5
+Anthony Davis,LAL,Pts+Rebs+Asts,44.5
+LeBron James,LAL,Steals,1.5
+Derrick White,BOS,3-PT Made,1.5
+Austin Reaves,LAL,Turnovers,2.5
+Jrue Holiday,BOS,Turnovers,0.5
+Jaylen Brown,BOS,Rebounds,3.5
+Derrick White,BOS,Points,9.5
+Max Christie,LAL,Points,5.5
+Jayson Tatum,BOS,Assists,3.5
+Jrue Holiday,BOS,Assists,2.5
+Austin Reaves,LAL,Assists,7.5
+Lonzo Ball,CHI,Assists,5.5
+Anthony Davis,LAL,Rebounds,9.5
+LeBron James,LAL,Assists,7.5
+LeBron James,LAL,3-PT Made,2.5
+Jaylen Brown,BOS,3-PT Made,2.5
+Nikola Vucevic,CHI,Assists,2.5
+Nikola Vucevic,CHI,Rebounds,14.5
+Nikola Vucevic,CHI,Pts+Rebs+Asts,29.5
+Anthony Davis,LAL,Points,29.5
+Patrick Williams,CHI,Points,5.5
+Rui Hachimura,LAL,3-PT Made,1.5
+Nikola Vucevic,CHI,Steals,1.5
+Max Christie,LAL,Rebounds,2.5
+Stephen Curry,GSW,3-PT Made,3.5
+Rui Hachimura,LAL,Rebounds,3.5
+Kristaps Porzingis,BOS,Pts+Asts,14.5
+Jayson Tatum,BOS,Blocked Shots,0.5
+Jaylen Brown,BOS,Assists,5.5
+Anthony Davis,LAL,Pts+Rebs,34.5
+Zach LaVine,CHI,Steals,1.5
+Jayson Tatum,BOS,Assists,4.5
+Rui Hachimura,LAL,3-PT Made,0.5
+Patrick Williams,CHI,Rebounds,4.5
+Zach LaVine,CHI,Rebounds,3.5
+LeBron James,LAL,Pts+Rebs,24.5
+Nikola Vucevic,CHI,Points,17.5
+Derrick White,BOS,Pts+Rebs+Asts,14.5
+Lonzo Ball,CHI,Assists,2.5
+Anthony Davis,LAL,Rebounds,14.5
+Anthony Davis,LAL,Pts+Rebs,39.5
+Derrick White,BOS,Points,14.5
+LeBron James,LAL,Points,19.5
+Patrick Williams,CHI,Points,7.5
+Zach LaVine,CHI,3-PT Made,3.5
+Rui Hachimura,LAL,Rebounds,5.5
+Jrue Holiday,BOS,Rebounds,5.5
+Nikola Vucevic,CHI,Assists,4.5
+Nikola Vucevic,CHI,Points,24.5
+Austin Reaves,LAL,Assists,4.5
+Stephen Curry,GSW,Pts+Rebs+Asts,44.5
+LeBron James,LAL,Points,29.5
+Austin Reaves,LAL,3-PT Made,3.5
+Zach LaVine,CHI,Pts+Rebs+Asts,34.5
+LeBron James,LAL,Rebs+Asts,17.5
+Josh Giddey,CHI,Rebs+Asts,17.5
+Max Christie,LAL,3-PT Made,2.5
+Jaylen Brown,BOS,Assists,3.5
+Jayson Tatum,BOS,Steals,0.5
+Anthony Davis,LAL,Blocked Shots,2.5
+Zach LaVine,CHI,Blocked Shots,0.5
+LeBron James,LAL,Assists,11.5
+Nikola Vucevic,CHI,Pts+Rebs,24.5
+Kristaps Porzingis,BOS,Rebounds,9.5
+Lonzo Ball,CHI,Pts+Asts,14.5
+Anthony Davis,LAL,Steals,1.5
+Lonzo Ball,CHI,3-PT Made,1.5
+Austin Reaves,LAL,Rebounds,4.5
+Lonzo Ball,CHI,Steals,2.5
+Rui Hachimura,LAL,Assists,2.5
+Jayson Tatum,BOS,Pts+Asts,34.5
+Josh Giddey,CHI,Pts+Rebs,24.5
+Rui Hachimura,LAL,Pts+Rebs,19.5
+Derrick White,BOS,Pts+Rebs+Asts,24.5
+LeBron James,LAL,Pts+Rebs+Asts,44.5
+Austin Reaves,LAL,Pts+Rebs+Asts,34.5
+Derrick White,BOS,Assists,4.5
+Jaylen Brown,BOS,Rebounds,6.5
+Rui Hachimura,LAL,Pts+Rebs+Asts,14.5
+Jaylen Brown,BOS,Points,24.5
+Josh Giddey,CHI,Points,14.5
+Patrick Williams,CHI,Rebounds,2.5
+Anthony Davis,LAL,Assists,2.5
+Rui Hachimura,LAL,Pts+Rebs+Asts,19.5
+Zach LaVine,CHI,Pts+Rebs+Asts,44.5
+Derrick White,BOS,3-PT Made,3.5
+Josh Giddey,CHI,Rebounds,9.5
+Jayson Tatum,BOS,Points,34.5
+Nikola Vucevic,CHI,Pts+Asts,19.5
+LeBron James,LAL,Rebounds,5.5
+Ayo Dosunmu,CHI,Steals,0.5
+Austin Reaves,LAL,Blocked Shots,0.5
+Jaylen Brown,BOS,Blocked Shots,0.5
+Max Christie,LAL,Assists,2.5
+LeBron James,LAL,Steals,0.5
+Jayson Tatum,BOS,3-PT Made,4.5
+Zach LaVine,CHI,Rebs+Asts,11.5
+Jayson Tatum,BOS,Rebs+Asts,17.5
+Kristaps Porzingis,BOS,Rebounds,5.5
+Jaylen Brown,BOS,Steals,1.5
+Austin Reaves,LAL,Pts+Rebs,29.5
+Zach LaVine,CHI,Rebounds,6.5
+Lonzo Ball,CHI,Points,14.5
+Kristaps Porzingis,BOS,Points,24.5
+Nikola Vucevic,CHI,Pts+Rebs+Asts,39.5
+Kristaps Porzingis,BOS,Assists,2.5
+Anthony Davis,LAL,Assists,4.5
+Jayson Tatum,BOS,Pts+Rebs,29.5
+Derrick White,BOS,Rebs+Asts,9.5
+Rui Hachimura,LAL,Points,9.5
+Zach LaVine,CHI,Points,34.5
+Stephen Curry,GSW,3-PT Made,5.5
+Jrue Holiday,BOS,Pts+Rebs+Asts,14.5
+Derrick White,BOS,Rebounds,2.5
+Nikola Vucevic,CHI,Rebs+Asts,17.5
+Zach LaVine,CHI,Pts+Asts,29.5
+Kristaps Porzingis,BOS,Pts+Rebs+Asts,29.5
+Jaylen Brown,BOS,Pts+Rebs+Asts,39.5
+Patrick Williams,CHI,Points,11.5
+Jrue Holiday,BOS,Rebounds,3.5
+Stephen Curry,GSW,Steals,1.5
+Lonzo Ball,CHI,Pts+Rebs+Asts,19.5
+Austin Reaves,LAL,Rebounds,2.5
+Jaylen Brown,BOS,Rebs+Asts,11.5
+Jaylen Brown,BOS,Rebounds,4.5
+Patrick Williams,CHI,Pts+Rebs,14.5
+Nikola Vucevic,CHI,Steals,0.5
+Ayo Dosunmu,CHI,Points,9.5
+Stephen Curry,GSW,Pts+Rebs+Asts,34.5
+Jrue Holiday,BOS,Points,11.5
+Josh Giddey,CHI,Rebounds,6.5
+Derrick White,BOS,Assists,5.5
+Jrue Holiday,BOS,Steals,0.5
+Patrick Williams,CHI,Assists,2.5
+Ayo Dosunmu,CHI,Blocked Shots,0.5
+LeBron James,LAL,Rebounds,9.5
+Stephen Curry,GSW,Assists,9.5
+Max Christie,LAL,Turnovers,0.5
+Lonzo Ball,CHI,Rebounds,4.5
+Lonzo Ball,CHI,Pts+Rebs,14.5
+Derrick White,BOS,Pts+Asts,14.5
+Max Christie,LAL,Pts+Rebs+Asts,19.5
+Patrick Williams,CHI,Pts+Asts,9.5
+Jayson Tatum,BOS,Steals,1.5
+LeBron James,LAL,Pts+Rebs,34.5
+Anthony Davis,LAL,Rebs+Asts,17.5
+Max Christie,LAL,Pts+Rebs,14.5
+Zach LaVine,CHI,Assists,6.5
+Nikola Vucevic,CHI,Blocked Shots,1.5
+Josh Giddey,CHI,3-PT Made,0.5
+Zach LaVine,CHI,Assists,3.5
+Josh Giddey,CHI,Assists,9.5
+LeBron James,LAL,Pts+Asts,29.5
+Josh Giddey,CHI,3-PT Made,1.5
+Austin Reaves,LAL,Assists,5.5
+Jayson Tatum,BOS,Pts+Asts,29.5
+Rui Hachimura,LAL,Blocked Shots,0.5
+Austin Reaves,LAL,Pts+Rebs+Asts,24.5
+Austin Reaves,LAL,Rebounds,5.5
+Nikola Vucevic,CHI,3-PT Made,2.5
+Kristaps Porzingis,BOS,Pts+Rebs,29.5
+Max Christie,LAL,Points,11.5
+Jrue Holiday,BOS,3-PT Made,2.5
+Jaylen Brown,BOS,Points,29.5
+Nikola Vucevic,CHI,Rebounds,13.5
+Austin Reaves,LAL,Pts+Asts,19.5
+Anthony Davis,LAL,3-PT Made,1.5
+Rui Hachimura,LAL,Pts+Asts,9.5
+Derrick White,BOS,Blocked Shots,1.5
+Jaylen Brown,BOS,Pts+Rebs,24.5
+Jaylen Brown,BOS,Steals,0.5
+Josh Giddey,CHI,Assists,5.5
+LeBron James,LAL,Pts+Asts,34.5
+Jrue Holiday,BOS,Blocked Shots,0.5
+Stephen Curry,GSW,Blocked Shots,0.5
+Derrick White,BOS,Pts+Rebs,14.5
+Derrick White,BOS,Pts+Rebs,19.5
+Max Christie,LAL,Points,7.5
+Stephen Curry,GSW,Rebounds,6.5
+Anthony Davis,LAL,Steals,0.5
+Jayson Tatum,BOS,Pts+Rebs+Asts,49.5
+Derrick White,BOS,Points,19.5
+Anthony Davis,LAL,Pts+Rebs+Asts,49.5
+Kristaps Porzingis,BOS,Blocked Shots,0.5
+Derrick White,BOS,Steals,0.5
+Ayo Dosunmu,CHI,3-PT Made,2.5
+Jayson Tatum,BOS,Pts+Rebs,39.5
+Stephen Curry,GSW,Pts+Asts,29.5
+Anthony Davis,LAL,Pts+Asts,24.5
+Josh Giddey,CHI,Pts+Rebs+Asts,24.5
+Zach LaVine,CHI,Pts+Rebs,29.5
+Max Christie,LAL,Rebounds,4.5
+Josh Giddey,CHI,3-PT Made,2.5
+Derrick White,BOS,Steals,1.5
+Max Christie,LAL,Steals,1.5
+Josh Giddey,CHI,Pts+Rebs+Asts,34.5
+Jrue Holiday,BOS,Points,14.5
+Stephen Curry,GSW,3-PT Made,6.5
+Zach LaVine,CHI,Pts+Rebs,39.5
+Jaylen Brown,BOS,Pts+Asts,29.5
+Max Christie,LAL,Pts+Rebs,9.5
+Derrick White,BOS,3-PT Made,4.5
+Rui Hachimura,LAL,Steals,1.5
+Patrick Williams,CHI,Pts+Rebs+Asts,19.5
+Nikola Vucevic,CHI,Pts+Rebs+Asts,44.5
+Austin Reaves,LAL,Steals,1.5
+Lonzo Ball,CHI,Pts+Asts,9.5
+Ayo Dosunmu,CHI,Points,19.5
+Anthony Davis,LAL,Blocked Shots,3.5
+Josh Giddey,CHI,Pts+Asts,24.5
+Kristaps Porzingis,BOS,Pts+Asts,24.5
+Lonzo Ball,CHI,Rebounds,2.5
+Stephen Curry,GSW,Rebounds,4.5
+Rui Hachimura,LAL,Points,17.5
+Derrick White,BOS,Rebounds,5.5
+Derrick White,BOS,Blocked Shots,0.5
+Zach LaVine,CHI,Steals,0.5
+Ayo Dosunmu,CHI,Rebounds,2.5
+Josh Giddey,CHI,Steals,1.5
+Jrue Holiday,BOS,Rebounds,6.5
+LeBron James,LAL,Rebs+Asts,19.5
+Patrick Williams,CHI,Blocked Shots,1.5
+Ayo Dosunmu,CHI,Pts+Rebs,19.5
+Patrick Williams,CHI,Pts+Asts,14.5
+Jaylen Brown,BOS,Rebounds,7.5
+Anthony Davis,LAL,Pts+Asts,34.5
+Kristaps Porzingis,BOS,Blocked Shots,2.5
+Josh Giddey,CHI,Steals,0.5
+Lonzo Ball,CHI,Assists,6.5
+Derrick White,BOS,Points,18.5
+LeBron James,LAL,3-PT Made,3.5
+Lonzo Ball,CHI,Rebs+Asts,9.5
+Ayo Dosunmu,CHI,Rebounds,4.5
+Ayo Dosunmu,CHI,Pts+Rebs,14.5
+Stephen Curry,GSW,Points,34.5
+Jordan Poole,WAS,FG Attempted,15.0
+Jordan Poole,WAS,FG Made,6.5
+Jordan Poole,WAS,Offensive Rebounds,0.5
+Jordan Poole,WAS,Free Throws Made,3.5
+Jordan Poole,WAS,Pts+Asts,23.5
+Jordan Poole,WAS,Pts+Rebs,22.5
+Jordan Poole,WAS,Pts+Rebs+Asts,27.5
+Jordan Poole,WAS,Turnovers,3.5
+Jordan Poole,WAS,Rebs+Asts,7.0
+Jordan Poole,WAS,Blks+Stls,1.5
+Jordan Poole,WAS,Points,19.5
+James Harden,LAC,FG Made,6.5
+James Harden,LAC,3-PT Attempted,8.5
+James Harden,LAC,Free Throws Made,6.0
+James Harden,LAC,Defensive Rebounds,5.0
+James Harden,LAC,FG Attempted,16.0
+James Harden,LAC,Offensive Rebounds,0.5
+James Harden,LAC,Rebs+Asts,15.5
+James Harden,LAC,Pts+Rebs,27.5
+James Harden,LAC,Pts+Rebs+Asts,37.5
+James Harden,LAC,Points,21.5
+James Harden,LAC,Assists,9.5
+James Harden,LAC,Blocked Shots,0.5
+James Harden,LAC,Pts+Asts,31.5
+James Harden,LAC,Turnovers,3.5
+James Harden,LAC,Rebounds,5.5
+Kyle Kuzma,WAS,FG Attempted,14.5
+Kyle Kuzma,WAS,FG Made,6.0
+Kyle Kuzma,WAS,Defensive Rebounds,5.0
+Kyle Kuzma,WAS,Rebs+Asts,9.0
+Kyle Kuzma,WAS,Pts+Asts,19.5
+Kyle Kuzma,WAS,Rebounds,6.0
+Kyle Kuzma,WAS,Pts+Rebs,22.0
+Kyle Kuzma,WAS,Turnovers,2.5
+Kyle Kuzma,WAS,Points,15.5
+Kyle Kuzma,WAS,Pts+Rebs+Asts,25.5
+Norman Powell,LAC,FG Made,7.5
+Norman Powell,LAC,Free Throws Made,3.5
+Norman Powell,LAC,FG Attempted,15.5
+Norman Powell,LAC,Pts+Asts,23.5
+Norman Powell,LAC,Assists,1.5
+Norman Powell,LAC,Pts+Rebs,25.5
+Norman Powell,LAC,Points,21.5
+Norman Powell,LAC,Pts+Rebs+Asts,27.5
+Norman Powell,LAC,Rebs+Asts,5.5
+Norman Powell,LAC,Steals,1.5
+Bilal Coulibaly,WAS,FG Attempted,10.0
+Bilal Coulibaly,WAS,Dunks,1.5
+Bilal Coulibaly,WAS,Defensive Rebounds,3.5
+Bilal Coulibaly,WAS,Blocked Shots,0.5
+Bilal Coulibaly,WAS,Rebounds,4.5
+Bilal Coulibaly,WAS,Points,11.5
+Bilal Coulibaly,WAS,Pts+Rebs+Asts,19.5
+Bilal Coulibaly,WAS,Pts+Asts,14.5
+Bilal Coulibaly,WAS,Rebs+Asts,8.0
+Bilal Coulibaly,WAS,Pts+Rebs,15.5
+Kawhi Leonard,LAC,FG Made,6.5
+Kawhi Leonard,LAC,Pts+Rebs,21.5
+Kawhi Leonard,LAC,Blks+Stls,1.5
+Kawhi Leonard,LAC,Points,16.5
+Kawhi Leonard,LAC,Rebs+Asts,6.5
+Kawhi Leonard,LAC,Rebounds,5.0
+Kawhi Leonard,LAC,Pts+Asts,18.5
+Kawhi Leonard,LAC,Pts+Rebs+Asts,23.5
+Alex Sarr,WAS,Pts+Asts,13.5
+Alex Sarr,WAS,Pts+Rebs+Asts,20.5
+Alex Sarr,WAS,Steals,0.5
+Alex Sarr,WAS,Rebs+Asts,8.5
+Alex Sarr,WAS,Pts+Rebs,17.5
+Alex Sarr,WAS,Rebounds,6.5
+Ivica Zubac,LAC,Defensive Rebounds,9.5
+Ivica Zubac,LAC,FG Attempted,10.0
+Ivica Zubac,LAC,FG Made,6.0
+Ivica Zubac,LAC,Assists,2.5
+Ivica Zubac,LAC,Pts+Rebs,27.5
+Ivica Zubac,LAC,Rebs+Asts,16.5
+Ivica Zubac,LAC,Rebounds,13.5
+Ivica Zubac,LAC,Pts+Asts,16.5
+Ivica Zubac,LAC,Pts+Rebs+Asts,30.5
+Corey Kispert,WAS,FG Attempted,8.5
+Corey Kispert,WAS,FG Made,3.5
+Corey Kispert,WAS,Pts+Rebs,13.5
+Corey Kispert,WAS,Points,10.5
+Corey Kispert,WAS,Assists,1.5
+Corey Kispert,WAS,Rebs+Asts,4.5
+Corey Kispert,WAS,Pts+Asts,12.5
+Corey Kispert,WAS,Pts+Rebs+Asts,14.5
+Corey Kispert,WAS,Steals,0.5
+Kevin Porter Jr.,LAC,FG Made,3.5
+Kevin Porter Jr.,LAC,Pts+Rebs+Asts,16.5
+Kevin Porter Jr.,LAC,Pts+Asts,12.5
+Kevin Porter Jr.,LAC,Rebs+Asts,6.5
+Kevin Porter Jr.,LAC,Points,9.5
+Kevin Porter Jr.,LAC,Pts+Rebs,12.5
+Carlton Carrington,WAS,3-PT Made,1.5
+Carlton Carrington,WAS,Pts+Rebs,12.5
+Carlton Carrington,WAS,Assists,3.5
+Carlton Carrington,WAS,Points,8.5
+Carlton Carrington,WAS,Rebs+Asts,7.5
+Carlton Carrington,WAS,Pts+Asts,12.5
+Carlton Carrington,WAS,Pts+Rebs+Asts,16.5
+Derrick Jones Jr.,LAC,Offensive Rebounds,1.5
+Derrick Jones Jr.,LAC,FG Made,4.0
+Derrick Jones Jr.,LAC,Points,10.0
+Derrick Jones Jr.,LAC,Pts+Asts,11.5
+Derrick Jones Jr.,LAC,Blks+Stls,1.5
+Derrick Jones Jr.,LAC,Pts+Rebs,14.5
+Derrick Jones Jr.,LAC,Rebs+Asts,5.0
+Derrick Jones Jr.,LAC,Rebounds,4.0
+Jonas Valanciunas,WAS,Defensive Rebounds,5.5
+Jonas Valanciunas,WAS,Rebs+Asts,9.5
+Jonas Valanciunas,WAS,Points,10.0
+Jonas Valanciunas,WAS,Rebounds,7.5
+Jonas Valanciunas,WAS,Pts+Rebs+Asts,19.5
+Jonas Valanciunas,WAS,Pts+Asts,12.5
+Jonas Valanciunas,WAS,Pts+Rebs,17.5
+Amir Coffey,LAC,3-PT Attempted,3.5
+Amir Coffey,LAC,FG Made,3.5
+Amir Coffey,LAC,Free Throws Made,1.5
+Amir Coffey,LAC,Pts+Rebs,13.5
+Amir Coffey,LAC,Rebs+Asts,5.0
+Amir Coffey,LAC,Pts+Rebs+Asts,15.5
+Amir Coffey,LAC,Rebounds,3.5
+Amir Coffey,LAC,Points,10.0
+Amir Coffey,LAC,Turnovers,0.5
+Amir Coffey,LAC,Pts+Asts,11.5
+Kyshawn George,WAS,Pts+Rebs+Asts,13.5
+Kyshawn George,WAS,Rebs+Asts,5.5
+Kyshawn George,WAS,Rebounds,3.5
+Kyshawn George,WAS,Pts+Asts,9.5
+Kyshawn George,WAS,Points,7.5
+Kyshawn George,WAS,Pts+Rebs,11.0
+Kyle Kuzma,WAS,Assists,3.5
+Bilal Coulibaly,WAS,3-PT Made,0.5
+Derrick Jones Jr.,LAC,Assists,0.5
+Kevin Porter Jr.,LAC,Rebounds,4.5
+Carlton Carrington,WAS,Rebounds,2.5
+Jordan Poole,WAS,Pts+Rebs,19.5
+Jordan Poole,WAS,Assists,2.5
+Ivica Zubac,LAC,Rebounds,12.5
+Amir Coffey,LAC,Points,7.5
+Kevin Porter Jr.,LAC,Points,5.5
+Bilal Coulibaly,WAS,Points,7.5
+Kyle Kuzma,WAS,Points,11.5
+Jordan Poole,WAS,Points,14.5
+Ivica Zubac,LAC,Rebounds,15.5
+Jonas Valanciunas,WAS,Rebounds,9.5
+Derrick Jones Jr.,LAC,Points,7.5
+Jordan Poole,WAS,Rebounds,4.5
+Derrick Jones Jr.,LAC,Pts+Rebs,19.5
+Kyshawn George,WAS,Assists,3.5
+Jordan Poole,WAS,Pts+Asts,29.5
+Kevin Porter Jr.,LAC,3-PT Made,1.5
+Kevin Porter Jr.,LAC,Assists,2.5
+Ivica Zubac,LAC,Points,9.5
+Norman Powell,LAC,3-PT Made,1.5
+Kawhi Leonard,LAC,Points,11.5
+Jordan Poole,WAS,Rebounds,2.5
+Derrick Jones Jr.,LAC,Pts+Rebs+Asts,19.5
+Norman Powell,LAC,Points,19.5
+Jordan Poole,WAS,Points,24.5
+Corey Kispert,WAS,Rebounds,3.5
+Kyshawn George,WAS,Assists,2.5
+Kevin Porter Jr.,LAC,Assists,4.5
+Kawhi Leonard,LAC,Assists,2.5
+Jordan Poole,WAS,Assists,5.5
+Derrick Jones Jr.,LAC,Points,11.5
+Amir Coffey,LAC,Assists,1.5
+Jordan Poole,WAS,3-PT Made,2.5
+Kawhi Leonard,LAC,Steals,1.5
+Amir Coffey,LAC,Steals,1.5
+Amir Coffey,LAC,Rebounds,5.5
+Amir Coffey,LAC,Rebounds,4.5
+Amir Coffey,LAC,Pts+Rebs,19.5
+Amir Coffey,LAC,Pts+Asts,9.5
+Amir Coffey,LAC,3-PT Made,2.5
+Bilal Coulibaly,WAS,Steals,1.5
+Bilal Coulibaly,WAS,Rebs+Asts,11.5
+Bilal Coulibaly,WAS,Rebounds,6.5
+Bilal Coulibaly,WAS,Rebounds,3.5
+Bilal Coulibaly,WAS,Pts+Rebs,19.5
+Bilal Coulibaly,WAS,Pts+Rebs,14.5
+Bilal Coulibaly,WAS,Pts+Asts,19.5
+Bilal Coulibaly,WAS,Blocked Shots,1.5
+Bilal Coulibaly,WAS,Assists,5.5
+Carlton Carrington,WAS,Rebs+Asts,11.5
+Carlton Carrington,WAS,Rebs+Asts,9.5
+Carlton Carrington,WAS,Rebounds,6.5
+Carlton Carrington,WAS,Pts+Rebs+Asts,14.5
+Carlton Carrington,WAS,Pts+Rebs,19.5
+Carlton Carrington,WAS,Pts+Rebs,14.5
+Carlton Carrington,WAS,Pts+Rebs,9.5
+Carlton Carrington,WAS,Pts+Asts,14.5
+Carlton Carrington,WAS,Pts+Asts,9.5
+Carlton Carrington,WAS,Assists,5.5
+Carlton Carrington,WAS,Assists,4.5
+Carlton Carrington,WAS,Assists,2.5
+Corey Kispert,WAS,Pts+Rebs,19.5
+Corey Kispert,WAS,3-PT Made,3.5
+Derrick Jones Jr.,LAC,Steals,2.5
+Derrick Jones Jr.,LAC,Steals,0.5
+Derrick Jones Jr.,LAC,Rebounds,6.5
+Kevin Porter Jr.,LAC,Turnovers,1.5
+Ivica Zubac,LAC,Pts+Asts,14.5
+Ivica Zubac,LAC,Assists,4.5
+James Harden,LAC,Steals,2.5
+James Harden,LAC,Steals,1.5
+James Harden,LAC,Rebs+Asts,19.5
+James Harden,LAC,Rebounds,7.5
+James Harden,LAC,Pts+Rebs,34.5
+James Harden,LAC,Pts+Rebs,24.5
+James Harden,LAC,Pts+Asts,39.5
+James Harden,LAC,Blocked Shots,1.5
+James Harden,LAC,3-PT Made,2.5
+Jonas Valanciunas,WAS,Steals,1.5
+Jonas Valanciunas,WAS,Rebounds,11.5
+Jonas Valanciunas,WAS,Pts+Rebs+Asts,29.5
+Kawhi Leonard,LAC,Assists,3.5
+Kevin Porter Jr.,LAC,Pts+Rebs,9.5
+Jonas Valanciunas,WAS,Pts+Asts,14.5
+Jonas Valanciunas,WAS,Pts+Asts,9.5
+Jonas Valanciunas,WAS,Assists,3.5
+Jordan Poole,WAS,Steals,2.5
+Jordan Poole,WAS,Steals,0.5
+Kawhi Leonard,LAC,Rebounds,7.5
+Kawhi Leonard,LAC,Pts+Rebs,29.5
+Kyle Kuzma,WAS,Pts+Asts,14.5
+Kevin Porter Jr.,LAC,Steals,1.5
+Kevin Porter Jr.,LAC,Rebounds,5.5
+Carlton Carrington,WAS,3-PT Made,2.5
+Kevin Porter Jr.,LAC,Pts+Rebs+Asts,24.5
+Kevin Porter Jr.,LAC,Pts+Rebs+Asts,14.5
+Amir Coffey,LAC,Assists,2.5
+Kyle Kuzma,WAS,3-PT Made,2.5
+Corey Kispert,WAS,Pts+Asts,9.5
+Jordan Poole,WAS,Pts+Asts,19.5
+James Harden,LAC,Assists,12.5
+Kevin Porter Jr.,LAC,Assists,5.5
+Amir Coffey,LAC,3-PT Made,0.5
+Kawhi Leonard,LAC,Blocked Shots,1.5
+Bilal Coulibaly,WAS,Points,17.5
+Jonas Valanciunas,WAS,Pts+Rebs,24.5
+Kyle Kuzma,WAS,Pts+Rebs+Asts,34.5
+Kyle Kuzma,WAS,Pts+Rebs,29.5
+Kyle Kuzma,WAS,Pts+Rebs,24.5
+Kyle Kuzma,WAS,Pts+Rebs,19.5
+Kyle Kuzma,WAS,Pts+Asts,24.5
+Kevin Porter Jr.,LAC,Blocked Shots,0.5
+Kyle Kuzma,WAS,Blocked Shots,0.5
+Bilal Coulibaly,WAS,Steals,0.5
+Kyshawn George,WAS,Rebounds,2.5
+Kawhi Leonard,LAC,Rebounds,6.5
+Kyshawn George,WAS,Pts+Rebs,14.5
+Kyshawn George,WAS,Pts+Rebs,9.5
+Amir Coffey,LAC,Rebounds,2.5
+Kyshawn George,WAS,Pts+Asts,14.5
+Norman Powell,LAC,Steals,2.5
+Kevin Porter Jr.,LAC,Pts+Asts,9.5
+Amir Coffey,LAC,Pts+Asts,14.5
+Norman Powell,LAC,Pts+Rebs,34.5
+Kyle Kuzma,WAS,Rebounds,7.5
+James Harden,LAC,3-PT Made,4.5
+Kawhi Leonard,LAC,Pts+Asts,14.5
+Derrick Jones Jr.,LAC,Pts+Asts,14.5
+Bilal Coulibaly,WAS,Assists,4.5
+Kyshawn George,WAS,3-PT Made,2.5
+Corey Kispert,WAS,Turnovers,0.5
+Ivica Zubac,LAC,Rebounds,16.5
+Carlton Carrington,WAS,Rebounds,5.5
+Kawhi Leonard,LAC,Pts+Rebs+Asts,29.5
+Kawhi Leonard,LAC,Pts+Rebs,24.5
+Kevin Porter Jr.,LAC,Points,7.5
+Carlton Carrington,WAS,Turnovers,1.5
+James Harden,LAC,Rebs+Asts,17.5
+Jordan Poole,WAS,Pts+Rebs+Asts,24.5
+Kawhi Leonard,LAC,Rebounds,3.5
+Kyle Kuzma,WAS,Rebs+Asts,11.5
+Kevin Porter Jr.,LAC,Rebs+Asts,9.5
+Bilal Coulibaly,WAS,Rebs+Asts,9.5
+Norman Powell,LAC,Pts+Rebs,29.5
+Ivica Zubac,LAC,Rebs+Asts,17.5
+Bilal Coulibaly,WAS,Rebounds,5.5
+Ivica Zubac,LAC,Points,11.5
+Norman Powell,LAC,Pts+Rebs+Asts,34.5
+Jonas Valanciunas,WAS,Pts+Rebs+Asts,24.5
+Carlton Carrington,WAS,Steals,1.5
+Kyle Kuzma,WAS,Steals,1.5
+Kyle Kuzma,WAS,Assists,4.5
+Kyle Kuzma,WAS,Points,19.5
+Corey Kispert,WAS,Assists,2.5
+Derrick Jones Jr.,LAC,Pts+Asts,9.5
+Kawhi Leonard,LAC,3-PT Made,2.5
+Norman Powell,LAC,Pts+Asts,29.5
+Norman Powell,LAC,Points,29.5
+Derrick Jones Jr.,LAC,Steals,1.5
+Jonas Valanciunas,WAS,Blocked Shots,1.5
+Kevin Porter Jr.,LAC,Pts+Asts,19.5
+Derrick Jones Jr.,LAC,Pts+Rebs,9.5
+James Harden,LAC,Rebounds,4.5
+James Harden,LAC,Pts+Rebs+Asts,34.5
+Kawhi Leonard,LAC,Pts+Asts,24.5
+James Harden,LAC,Pts+Asts,34.5
+Jordan Poole,WAS,Blocked Shots,0.5
+Corey Kispert,WAS,Blocked Shots,0.5
+Carlton Carrington,WAS,Blocked Shots,0.5
+Amir Coffey,LAC,Blocked Shots,0.5
+James Harden,LAC,Points,29.5
+Kyshawn George,WAS,Pts+Rebs+Asts,19.5
+Corey Kispert,WAS,Pts+Rebs,9.5
+Jordan Poole,WAS,Steals,1.5
+Kyshawn George,WAS,Points,4.5
+Corey Kispert,WAS,Pts+Asts,14.5
+Bilal Coulibaly,WAS,Points,9.5
+Amir Coffey,LAC,Pts+Rebs+Asts,19.5
+Bilal Coulibaly,WAS,Pts+Rebs+Asts,24.5
+Carlton Carrington,WAS,Pts+Rebs+Asts,19.5
+Corey Kispert,WAS,Pts+Rebs+Asts,19.5
+Norman Powell,LAC,Rebounds,2.5
+Kevin Porter Jr.,LAC,Rebounds,2.5
+Derrick Jones Jr.,LAC,Rebounds,2.5
+Kawhi Leonard,LAC,Pts+Rebs,19.5
+James Harden,LAC,Pts+Rebs+Asts,44.5
+Jordan Poole,WAS,Pts+Rebs+Asts,34.5
+Jonas Valanciunas,WAS,Pts+Rebs,14.5
+Derrick Jones Jr.,LAC,3-PT Made,1.5
+Norman Powell,LAC,Assists,2.5
+Bilal Coulibaly,WAS,Points,14.5
+Kyle Kuzma,WAS,Pts+Rebs+Asts,29.5
+Corey Kispert,WAS,Points,14.5
+Kyshawn George,WAS,Points,9.5
+Jordan Poole,WAS,Points,17.5
+James Harden,LAC,Points,19.5
+James Harden,LAC,Steals,0.5
+Kyshawn George,WAS,Turnovers,0.5
+Derrick Jones Jr.,LAC,3-PT Made,0.5
+Kyle Kuzma,WAS,3-PT Made,0.5
+James Harden,LAC,Assists,11.5
+Amir Coffey,LAC,Pts+Rebs,9.5
+Norman Powell,LAC,Pts+Rebs,19.5
+Norman Powell,LAC,3-PT Made,3.5
+Derrick Jones Jr.,LAC,Points,14.5
+Amir Coffey,LAC,Points,14.5
+Kawhi Leonard,LAC,Pts+Rebs+Asts,19.5
+Kyle Kuzma,WAS,Rebounds,4.5
+Kyshawn George,WAS,Rebounds,4.5
+Kawhi Leonard,LAC,Points,24.5
+Jordan Poole,WAS,3-PT Made,4.5
+Kyshawn George,WAS,Pts+Rebs+Asts,9.5
+Ivica Zubac,LAC,Turnovers,1.5
+Derrick Jones Jr.,LAC,Blocked Shots,0.5
+Norman Powell,LAC,Rebounds,5.5
+Jonas Valanciunas,WAS,Points,14.5
+Kevin Porter Jr.,LAC,Points,11.5
+Jordan Poole,WAS,Rebs+Asts,9.5
+Kawhi Leonard,LAC,3-PT Made,0.5
+Kevin Porter Jr.,LAC,Pts+Rebs+Asts,19.5
+Corey Kispert,WAS,Rebounds,4.5
+Bilal Coulibaly,WAS,3-PT Made,1.5
+James Harden,LAC,Points,24.5
+Bilal Coulibaly,WAS,Pts+Rebs+Asts,14.5
+Kevin Porter Jr.,LAC,Points,14.5
+Bilal Coulibaly,WAS,Assists,2.5
+Jonas Valanciunas,WAS,Assists,2.5
+Norman Powell,LAC,Points,24.5
+Ivica Zubac,LAC,Points,19.5
+Kyshawn George,WAS,3-PT Made,0.5
+James Harden,LAC,3-PT Made,3.5
+Norman Powell,LAC,Pts+Rebs+Asts,24.5
+Jonas Valanciunas,WAS,Pts+Rebs+Asts,14.5
+Kawhi Leonard,LAC,Steals,0.5
+Jonas Valanciunas,WAS,Rebounds,6.5
+Derrick Jones Jr.,LAC,Rebounds,5.5
+Jordan Poole,WAS,Pts+Rebs,29.5
+James Harden,LAC,Assists,7.5
+Norman Powell,LAC,Blocked Shots,0.5
+Corey Kispert,WAS,3-PT Made,2.5
+Ivica Zubac,LAC,Pts+Rebs,24.5
+Norman Powell,LAC,Pts+Asts,19.5
+Kyle Kuzma,WAS,Pts+Rebs+Asts,19.5
+Carlton Carrington,WAS,3-PT Made,0.5
+Kawhi Leonard,LAC,Points,14.5
+Kevin Porter Jr.,LAC,Pts+Rebs,19.5
+Norman Powell,LAC,3-PT Made,4.5
