@@ -48,4 +48,9 @@ A powerful tool for analyzing NBA player props and generating high-confidence sa
 - NumPy
 - HTTP/API Integration
 
+# How to run: 
+In your terminal 
+```
+streamlit run your_script.py
+```
 
