@@ -51,6 +51,6 @@ A powerful tool for analyzing NBA player props and generating high-confidence sa
 # How to run: 
 In your terminal 
 ```
-streamlit run your_script.py
+streamlit run Cheat_Sheet_Maker.py
 ```
 
