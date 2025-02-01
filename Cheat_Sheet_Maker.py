@@ -97,7 +97,7 @@ all_games_playing = pd.read_csv("januarySchedule.csv")
 df = o_df
 
 # in the all games_playing dataframe the first collumn in the "Date". Find all of the games that are playing today. the format of the date in the collumn is: Wed Jan 1 2025
-today = pd.to_datetime("today").strftime("%a %b %d %Y")
+today = pd.to_datetime("today").strftime("%a %b %-d %Y")
 today_games = all_games_playing[all_games_playing["Date"] == today]
 # gets the teams playing today in abbreviation form
 teamsToday = today_games[["Visitor/Neutral", "Home/Neutral"]].copy()
